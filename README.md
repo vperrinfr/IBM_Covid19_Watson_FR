@@ -83,7 +83,7 @@ Ce jeu de données est vivant et peut évoluer au fur et à mesure de l'évoluti
 
 N'hésitez pas également à me faire un retour sur l'utilisation de ce jeu de données.
 
-## Contact
+## Contacts
 
 Vous avez besoin d'aide pour l'implémenter et pour vous accompagner dans son adaptation à votre environnement, n'hésistez pas à contacter nos équipes Services.
 
