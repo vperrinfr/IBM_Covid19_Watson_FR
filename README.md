@@ -83,4 +83,14 @@ Ce jeu de données est vivant et peut évoluer au fur et à mesure de l'évoluti
 
 N'hésitez pas également à me faire un retour sur l'utilisation de ce jeu de données.
 
+## Contact
+
+Vous avez besoin d'aide pour l'implémenter et pour vous accompagner dans son adaptation à votre environnement, n'hésistez pas à contacter nos équipes Services.
+
+- Emmanuel Vignon Watson AI Practice Leader [contact](https://www.linkedin.com/in/emmanuelvignon/)
+- Guilhaume Leroy-Meline IBM Services AI CTO[contact](https://www.linkedin.com/in/guilhaume/)
+- Vincent Perrin Partner Ecosystem Technical Leader [contact](https://www.linkedin.com/in/vincentperrin/)
+
+Ce jeu d’intentions peut être utilisé dans le cadre de l’offre gratuite de 90 jours de la solution Watson Assistant présenté sur ce site (https://www.ibm.com/watson/covid-response).
+
 Merci d'avance
