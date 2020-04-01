@@ -5,7 +5,7 @@ Ce github est dédié au partage de contenu d'entrainement d'un Bot sur le thèm
 Nous avons décidé de fournir l’ensemble des données d’entrainement de ce bot en open-source pour faciliter son utilisation et permettre une évolution communautaire. Ces données d'entrainement regroupent un ensemble de **49 intentions et 1084 variations** ainsi ques les entités, pour répondre à des questions telles que « Qu'est ce que le coronavirus ou COVID-19 ? », « Où trouver les statistiques officielles sur le Covid19 ? » ou « A quel moment le confinement prendra fin ? ».
 Ceci peut être utilisé pour enrichir vos Bots actuels ou vous mettre la mise en œuvre très rapidement un nouveau Bot Covid-19.
 
-Il a été travaillé par une équipe d'IBMers volontaire et utilisé en production dans pour répondre à des questions d'IBMers.
+Il a été travaillé par une équipe d'IBMers volontaire et utilisé en production chez IBM France dans pour répondre à des questions d'IBMers.
 
 ![equipe](/img/Photo%20Equipe.png)
 
