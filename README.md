@@ -37,7 +37,6 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | #03.1.Treatment_vaccine  | Content Cell  | 20 |
 | #03.2.info_traitements | Content Cell  | 20 |
 | #03.3.Traitements_what_to_do_symptomes  | Content Cell  | 43 |
-
 | #03.4.Treatment_depistage | Content Cell  | 40 |
 | #03.5.Treatment_shortnessOfBreath  | Content Cell  | 19 |
 | #03.6.Treatment_aggravatingFactors | Content Cell  | 19 |
@@ -48,63 +47,25 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | #05.10.Confinement_attestation_procedureGlobale | Content Cell  | 16 |
 | #05.11.Confinement_attestation_details | Content Cell  | 28 |
 | #05.2.Confinement_Rules_goingOut | Content Cell  | 54 |
-
 | #05.3.Confinement_time | Content Cell  | 15 |
 | #05.4.Confinement_Work | Content Cell  | 23 |
 | #05.5.Confinement_food | Content Cell  | 28 |
 | #05.6.Confinement_school | Content Cell  | 27 |
-
 | #05.7.Confinement_Senior | Content Cell  | 28 |
 | #05.8.Confinement_stopWorking | Content Cell  | 25 |
 | #05.9.Confinement_violation | Content Cell  | 23 |
 | #06.1.travel_ability | Content Cell  | 21 |
-
-
-#06.2.travel_backToFrance_WhenAndHow
-19 hours ago
-21
-
-#06.3.travel_backToFrance_Contact
-19 hours ago
-19
-
-#06.4.travel_backToFrance_flightBackInfo
-19 hours ago
-18
-
-#06.6.travel_backToFrance_landingnearfrontier
-19 hours ago
-19
-
-#06.7.travel_backToFrance_passportIssue
-19 hours ago
-19
-
-#06.8.travel_frenchLivingAbroad
-19 hours ago
-19
-
-#06.9.travel_foreigners
-19 hours ago
-15
-
-#10.1.Economy_Impact
-19 hours ago
-5
-
-#10.2.Other_Contact_Disabilities
-19 hours ago
-10
-
-#10.3.Other_Volunteering
-19 hours ago
-20
-
-#10.4.Business_Open_Closed
-19 hours ago
-17
-
-
+| #06.2.travel_backToFrance_WhenAndHow | Content Cell  | 21 |
+| #06.3.travel_backToFrance_Contact | Content Cell  | 19 |
+| #06.4.travel_backToFrance_flightBackInfo | Content Cell  | 18 |
+| #06.6.travel_backToFrance_landingnearfrontier | Content Cell  | 19 |
+| #06.7.travel_backToFrance_passportIssue | Content Cell  | 19 |
+| #06.8.travel_frenchLivingAbroad | Content Cell  | 19 |
+| #06.9.travel_foreigners | Content Cell  | 15 |
+| #10.1.Economy_Impact | Content Cell  | 5 |
+| #10.2.Other_Contact_Disabilities | Content Cell  | 10 |
+| #10.3.Other_Volunteering | Content Cell  | 20 |
+| #10.4.Business_Open_Closed | Content Cell  | 17 |
 
 
 
