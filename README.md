@@ -13,7 +13,11 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 
 ## Contenu détaillé du skill
 
-**Intentions**
+- Lien vers le fichier CSV des intentions: [lien](https://github.com/vperrinfr/IBM_Covid19_Watson_FR/blob/master/fichiers/liste_intents.csv)
+
+- Lien vers le fichier JSON du skill Watson Assistant: [lien](https://github.com/vperrinfr/IBM_Covid19_Watson_FR/blob/master/fichiers/skill-COVID19-France-Public-Skill.json)
+
+**Liste des intentions**
 
 | Nom  | Phrase d'exemple | Nombre de variations |
 | ------------- | ------------- | ------------- |
