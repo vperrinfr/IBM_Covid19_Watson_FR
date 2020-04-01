@@ -1,0 +1,3597 @@
+{
+  "intents": [
+    {
+      "intent": "06.7.travel_backToFrance_passportIssue",
+      "examples": [
+        {
+          "text": "Mon passeport est périmée, l'ambassade ne répond pas mais je dois rentrer en france de toute urgence car ils ferment les frontières"
+        },
+        {
+          "text": "Que dois-je faire si la date de mon passport est périmée ?"
+        },
+        {
+          "text": "Y'a t'il un assouplissement de la valididté des papiers d'identités ?"
+        },
+        {
+          "text": "Je viens d'avoir un bébé mais il n'a pas encore de passeport, quelle est la procédure ?"
+        },
+        {
+          "text": "J’ai une double nationalité. Mon passeport étranger est en cours de validité mais mon passeport français est périmé et je n’ai pas de carte d’identité française en cours de validité. Est-ce que je peux voyager vers la France ?"
+        },
+        {
+          "text": "Quelles demarches dois-je faire au pret de mon consulat ?"
+        },
+        {
+          "text": "J'ai un problème avec mon passeport pour rentrer en France, que faire ?"
+        },
+        {
+          "text": "Je suis en déplacement temporaire à l’étranger et j’ai perdu mon passeport. Est-ce que je peux voyager vers la France sans document d’identité ?"
+        },
+        {
+          "text": "Mon conccubin n'a pas de passeport à jour que faire ?"
+        },
+        {
+          "text": "On m'a volé mon passeport"
+        },
+        {
+          "text": "Une carte d'identité expirée de moins de 5 ans est-elle encore valide ?"
+        },
+        {
+          "text": "Quel delais faut-il pour obtenir un laisser-passer ?"
+        },
+        {
+          "text": "Puis-je avoir un laissez-passer pour rentrer en France ?"
+        },
+        {
+          "text": "Ma date de validité de mon passeport est périmée, comment rentrer en france ?"
+        },
+        {
+          "text": "Je viens d’accoucher à l’étranger et mon bébé n’a pas encore de document d’identité français. Est-ce qu’il peut voyager vers la France ?"
+        },
+        {
+          "text": "Quels documents les mineurs doivent présenter pour rentrer en France ?"
+        },
+        {
+          "text": "J’ai une double nationalité. Mon passeport étranger est en cours de validité mais mon passeport français est périmé. J’ai une carte d’identité française en cours de validité. Est-ce que je peux voyager vers la France avec mon passeport français périmé et ma carte d’identité française en cours de validité ?"
+        },
+        {
+          "text": "J'ai perdu mon passeport"
+        },
+        {
+          "text": "Comment puis-je obtenir une autorisation de rentrer en France ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.8.aboutVirus_numbers",
+      "examples": [
+        {
+          "text": "Des cas de @covid en Ile de France ?"
+        },
+        {
+          "text": "Quel est le nombre de personnes infectées ?"
+        },
+        {
+          "text": "Combien de personnes infectées y a-t-il dans ma région ?"
+        },
+        {
+          "text": "Ou trouver les statistiques officielles sur le @covid ?"
+        },
+        {
+          "text": "Y a-t-il des malades autour de moi ?"
+        },
+        {
+          "text": "c'est les derniers chiffres ?"
+        },
+        {
+          "text": "Combien de cas de @covid en France ?"
+        },
+        {
+          "text": "Combien de personnes malades en France?"
+        },
+        {
+          "text": "Comment évolue la courbe de personnes infectées par le @covid "
+        },
+        {
+          "text": "On en est à combien de personnes infectées ? "
+        },
+        {
+          "text": "Combien de personnes malades?"
+        },
+        {
+          "text": "Quel est le bilan du @covid en France ?"
+        },
+        {
+          "text": "Combien de personnes infectées y a-t-il dans le monde ?"
+        },
+        {
+          "text": "Y a-t-il des morts du @covid en France ?"
+        },
+        {
+          "text": "Est-ce que le nombre de personnes infectées baisse ou augmente"
+        },
+        {
+          "text": "Où sont les cas de @covid ?"
+        },
+        {
+          "text": "A quel stade, sommes nous ?"
+        },
+        {
+          "text": "Combien existe-t-il de cluster de @covid en France ?"
+        },
+        {
+          "text": "Des cas confirmés de @covid en Ile de France ?"
+        },
+        {
+          "text": "Y a-t-il des cas près de moi ?"
+        },
+        {
+          "text": "Quels sont les derniers chiffres du COVID-19 ?"
+        },
+        {
+          "text": "Qui donne les données sur le @covid en France ?"
+        },
+        {
+          "text": "Où puis-je trouver le point epimiologique quotidien ?"
+        },
+        {
+          "text": "Où trouver les statistiques sur le @covid dans le monde ?"
+        },
+        {
+          "text": "Quelles sont les nouveaux chiffres du @covid ?"
+        },
+        {
+          "text": "Qu'est ce qu'un cluster ?"
+        },
+        {
+          "text": "Où trouver les statistiques sur le @covid en France ?"
+        },
+        {
+          "text": "Comment est mesurée la progression du @covid ?"
+        },
+        {
+          "text": "C'est quoi les chiffres du  @covid, combien de morts et/ou personnes infectées "
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.5.Treatment_shortnessOfBreath",
+      "examples": [
+        {
+          "text": "Comment connaître mon taux d'oxygène ?"
+        },
+        {
+          "text": "Que doit-on faire si quelqun a du mal à respirer ?"
+        },
+        {
+          "text": "Comment puis-je savoir que je souffre d'essoufflement ?"
+        },
+        {
+          "text": "Qu'est-ce que l'essoufflement ?"
+        },
+        {
+          "text": "Quels sont les gestes à adopter lors d'une détresse respiratoire ?"
+        },
+        {
+          "text": "Un sifflement en cours de respiration est-elle synonyme d'essouflement ?"
+        },
+        {
+          "text": "Qu'est qu'un oxymètre de pouls ?"
+        },
+        {
+          "text": "Quels sont les symptômes de l'essoufflement ?"
+        },
+        {
+          "text": "Qu'est ce l'essoufflement et comment réagir ?"
+        },
+        {
+          "text": "SI je suis en détresse respiratoire, que faire ?"
+        },
+        {
+          "text": "Comment réagir en cas d'essouflement ?"
+        },
+        {
+          "text": "J'ai du mal à respirer. Que dois-je faire ?"
+        },
+        {
+          "text": "Je n'arrive plus à respirer correctement. Que dois-je faire ?"
+        },
+        {
+          "text": "Qu'est ce que la saturation en oxygène ?"
+        },
+        {
+          "text": "Qu'est-ce qu'une détresse respiratoire ?"
+        },
+        {
+          "text": "Quand s'agit-il d'essoufflement ?"
+        },
+        {
+          "text": "Quelles sont les normales de taux d'oxygene dans le sang ?"
+        },
+        {
+          "text": "Qu'est-ce qui se manifeste par l'essoufflement ?"
+        },
+        {
+          "text": "Une augmentation de la fréquence de respiration est-elle synonyme d'essouflement ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.5.Confinement_food",
+      "examples": [
+        {
+          "text": "Je peux sortir faire mes courses pendant le confinement ?"
+        },
+        {
+          "text": "Est-ce risquer d'aller faire ses courses ?"
+        },
+        {
+          "text": "Les supermarchés vont-ils être  approvisioné ?"
+        },
+        {
+          "text": "Y'a-t-il une pénurie du papier toilette ?"
+        },
+        {
+          "text": "La france a t'elle des stock de papier toilettes ?"
+        },
+        {
+          "text": "Allons nous être rationné dans certains articles ?"
+        },
+        {
+          "text": "Puis-je faire mes courses pendant le confinement ?"
+        },
+        {
+          "text": "Les entrepots des magasins ont-il une réserve suffisante ?"
+        },
+        {
+          "text": "Puis-je commander sur internet mes courses ?"
+        },
+        {
+          "text": "Les transporteurs continuent ils a approvisionner les magasins ?"
+        },
+        {
+          "text": "Je peux aller acheter le pain pendant le confinement ?"
+        },
+        {
+          "text": "Puis-je faire des courses pendant le confinement ?"
+        },
+        {
+          "text": "Pourquoi les gens achetent ils tous du papier toilettes ?"
+        },
+        {
+          "text": "Puis-je me faire livrer mes courses ?"
+        },
+        {
+          "text": "Mon commerce d'alimentation de proximité risque t'il de fermer ?"
+        },
+        {
+          "text": "Puis-je faire mes courses au supermarché ou à l'épicerie ?"
+        },
+        {
+          "text": "Est-ce que je rsique d'être contaminée si je vais faire mes courses ?"
+        },
+        {
+          "text": "Un magasin a-t-il le droit de me rationner en quantité de produit ?"
+        },
+        {
+          "text": "Aurais je à manger la semaine prochaine ?"
+        },
+        {
+          "text": "Quelle distance de sécurité faut-il respecter dans les files d'attentes ?"
+        },
+        {
+          "text": "Quels sont les horaires dans lesquels je pourrai effectuer mes courses ?"
+        },
+        {
+          "text": "il n'y a plus de pates, farine et oeuf dans les supermarchés, les lignes d'approvisionnement fonctionnent-elles ?"
+        },
+        {
+          "text": "Existe-t-il un risque de rupture dans la chaine d'approvisionnement ?"
+        },
+        {
+          "text": "Les supermarchés seront-ils ouverts pendant le confinement ?"
+        },
+        {
+          "text": " Puis-je faire mes courses au supermarché ou à l'épicerie ?"
+        },
+        {
+          "text": "Les magasins seront-ils approvisionner ?"
+        },
+        {
+          "text": "Comment je fais mes courses ?"
+        },
+        {
+          "text": "Y'a plus rien dans les magasins !! quand seront-ils approvisionner ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.1.Prevention_info",
+      "examples": [
+        {
+          "text": "Quelle est la meilleure façon de se prévenir du @covid ?"
+        },
+        {
+          "text": "Dois-je éviter les gens ?"
+        },
+        {
+          "text": "Quelle est la meilleure prévention, contre le @covid ?"
+        },
+        {
+          "text": "Comment puis-je m'assurer que ma famille est en sécurité ?"
+        },
+        {
+          "text": "Comment puis-je protéger ma famille contre la propagation du coronavirus ?"
+        },
+        {
+          "text": "Qu'est-ce que je dois faire pour que je ne tombe pas malade @covid ?"
+        },
+        {
+          "text": "Quelle est la prévention la plus efficace ?"
+        },
+        {
+          "text": "Comment me protéger contre le @covid ?"
+        },
+        {
+          "text": "Est-il même possible d'éviter le virus ?"
+        },
+        {
+          "text": "Comment faire les gestes barrières pour limiter la propagation du virus ?"
+        },
+        {
+          "text": "Comment faire barriere au @covid ?"
+        },
+        {
+          "text": "Comment m'empêcher de tomber malade ?"
+        },
+        {
+          "text": "Comment puis-je éviter que la contagion au @covid ?"
+        },
+        {
+          "text": "Comment se protéger ?"
+        },
+        {
+          "text": "Comment empêcher la propagation du virus ?"
+        },
+        {
+          "text": "Quels sont les gestes barrières contre le @covid ?"
+        },
+        {
+          "text": "Qu'est-ce que la bonne prévention?"
+        },
+        {
+          "text": "Que dois-je faire pour contenir la propagation du virus"
+        },
+        {
+          "text": "Qu'est-ce que je suis censé faire pour ne pas tomber malade ?"
+        },
+        {
+          "text": "Comment éviter le @covid ?"
+        },
+        {
+          "text": "Comment Prévenir la propagation ?"
+        },
+        {
+          "text": "Quel est le risque que mon enfant tombe malade avec COVID-19 ?"
+        },
+        {
+          "text": "Prévention efficace contre @covid ?"
+        },
+        {
+          "text": "C'est quoi les gestes barrières ?"
+        },
+        {
+          "text": "Qu'est-ce qui va m'aider devant le @covid ?"
+        },
+        {
+          "text": "Que doit-on fair epour appliquer les gestes barrières ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.4.aboutVirus_Incubation_Period",
+      "examples": [
+        {
+          "text": "La période d'incubation est-elle de 14 jours ou moins ?"
+        },
+        {
+          "text": "Durée de la période d'incubation du @covid"
+        },
+        {
+          "text": "Mon collègue a été dépisté positif au @covid il y 3 jours"
+        },
+        {
+          "text": "Si mes proches et moi n'avons aucun symptome après 14 jours, suis-je à l'abris ?"
+        },
+        {
+          "text": "Au bout de cb de temps les premiers symptômes arrivent-ils ?"
+        },
+        {
+          "text": "Quelle est la durée d'incubation @covid?"
+        },
+        {
+          "text": "Combien de temps ça prend pour que les premiers symptômes apparaissent ? "
+        },
+        {
+          "text": "Au bout de combien de jour puis-je être sûr de ne pas être infecté ?"
+        },
+        {
+          "text": "Combien de temps le virus met-il pour incuber ?"
+        },
+        {
+          "text": "La durée de l'incubation du @covid?"
+        },
+        {
+          "text": "Quelle durée pour savoir si une personne est contaminée "
+        },
+        {
+          "text": "J'ai déjeuné avec un collègue qui a déclaré le @covid il y deux jours"
+        },
+        {
+          "text": "Si un ami a déclaré le @covid ?"
+        },
+        {
+          "text": "Au bout de combien de jour sait-on si on est sain ?"
+        },
+        {
+          "text": "Combien de temps pour incuber @covid"
+        },
+        {
+          "text": "Quelle est la période d'incubation ?"
+        },
+        {
+          "text": "Au bout de combien de temps je peux savoir si je suis contaminé ou pas "
+        },
+        {
+          "text": "Les premiers symptomes aparaissent-ils au bout de 5 ou 10 jours ?"
+        },
+        {
+          "text": "Aprés guérison, suis-je contagieux ?"
+        },
+        {
+          "text": "L'incubation du @covid ?"
+        },
+        {
+          "text": "période d'incubation"
+        },
+        {
+          "text": "Quelle est la durée de la période d'incubation ?"
+        },
+        {
+          "text": "Au bout de combien de temps les symptomes apparaisent-ils ?"
+        },
+        {
+          "text": "durée d'incubation "
+        },
+        {
+          "text": "Quelle est la période d'incubation @covid?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.1.travel_ability",
+      "examples": [
+        {
+          "text": "il y a-t-il des vols pour aller à l'étranger pendant le confinement ?"
+        },
+        {
+          "text": "Je peux me rendre dans ma maison secondaire à l'étranger ?"
+        },
+        {
+          "text": "Puis-je aller à l'étranger pendant le confinement ?"
+        },
+        {
+          "text": "Combien de temps les frontières vont-elle être fermées ?"
+        },
+        {
+          "text": "Comment faire pour quitter la france et me confiner dans ma maison à l'étranger ?"
+        },
+        {
+          "text": "Puis-je partir en vacances à l'étranger ?"
+        },
+        {
+          "text": "Je souhaite retrouver ma famille en Italie, est-ce possible ?"
+        },
+        {
+          "text": "Puis-je fuir le corona en m'exilant à l'étranger ?"
+        },
+        {
+          "text": "Quelles sont les frontières fermées avec la France ?"
+        },
+        {
+          "text": "Les voyages à l'étranger sont-ils possibles en période de confinement ?"
+        },
+        {
+          "text": "C'est interdit de voyager en Europe aussi ?"
+        },
+        {
+          "text": "Je veux partir hors de France, y a-t-il des avions ou des trains ?"
+        },
+        {
+          "text": "Puis-je me rendre dans ma résidence en espagne ?"
+        },
+        {
+          "text": "Puis-je quitter la France ?"
+        },
+        {
+          "text": "Est-ce que je peux prendre l'avion pour un pays en dehors de l'Europe ?"
+        },
+        {
+          "text": "j'ai une double nationalité, puis-je rentrer dans mon autre pays ?"
+        },
+        {
+          "text": "Quelles sont les consignes si je pars en voyage ?"
+        },
+        {
+          "text": "Pour combien de temps les frontières sont-elles fermées"
+        },
+        {
+          "text": "Quels pays ont fermés leur frontières ?"
+        },
+        {
+          "text": "Quelles sont les règles de voyage ?"
+        },
+        {
+          "text": "C'est vrai que les aéroports sont fermés ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.4.Confinement_Work",
+      "examples": [
+        {
+          "text": "Puis-je télétravailler pendant le confinement ?"
+        },
+        {
+          "text": "teletravail je ne peux pas."
+        },
+        {
+          "text": "Puis-je me rendre au travail pendant le confinement ?"
+        },
+        {
+          "text": "Si le télétravail est impossible, puis-je me rendre sur site IBM par mes propres moyens ?"
+        },
+        {
+          "text": "Je ne peux pas télétravailler."
+        },
+        {
+          "text": "Le télétravail est-il le mode de travail préconisé pendant le confinement ?"
+        },
+        {
+          "text": "Je peux ne peux pas travailler à la maison"
+        },
+        {
+          "text": "Si le télétravail n’est pas possible, le travail est-il possible pour tous ?"
+        },
+        {
+          "text": "Est-ce que je peux travailler à la maison?"
+        },
+        {
+          "text": "Télétravail ?"
+        },
+        {
+          "text": "Puis-je effectuer du télétravail pendant le confinement ?"
+        },
+        {
+          "text": "Que faire si le télétravail n'est pas possible ?"
+        },
+        {
+          "text": "Puis-je rester chez moi pour effectuer du télétravail ?"
+        },
+        {
+          "text": "Comment puis-je travailler lorsque je suis mis en quarantaine?"
+        },
+        {
+          "text": "Puis-je me rendre au travail en transport si le télétravail est impossible ?"
+        },
+        {
+          "text": "Puis-je aller travailler ?"
+        },
+        {
+          "text": "Que doit-faire mon employeur si le télétravail est impossible dans mon secteur ?"
+        },
+        {
+          "text": "Comment travailler pendant le confinement ?"
+        },
+        {
+          "text": "Le télétravail est-il permis pendant le confinement ?"
+        },
+        {
+          "text": "Le télétravail est-il préconisé en période de confinement ?"
+        },
+        {
+          "text": "Puis-je travailler de la maison pendant la quarantaine?"
+        },
+        {
+          "text": "Quels documents dois-je avoir en ma possession si je me rends au travail par mes propes moyens ?"
+        },
+        {
+          "text": "Je suis mis en quarantaine et je ne peux pas aller travailler, que dois-je faire?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.3.Confinement_time",
+      "examples": [
+        {
+          "text": "Combien de temps le confinement va-t-il durer ?"
+        },
+        {
+          "text": "Combien de temps vais-je être coincé à la maison?"
+        },
+        {
+          "text": "Ca se termine quand le confinement ?"
+        },
+        {
+          "text": "A quel moment le confinement prendra fin ?"
+        },
+        {
+          "text": "quand aura-t-on le droit de sortir ?"
+        },
+        {
+          "text": "@covid on en sort quand ?"
+        },
+        {
+          "text": "Combien de temps dois-je mettre en isolement?"
+        },
+        {
+          "text": "c'est quand qu'on sort de ce @covid ?"
+        },
+        {
+          "text": "C'est quand la fin officiel du confinement ?"
+        },
+        {
+          "text": "c'est quand la fin de la quarantaine ?"
+        },
+        {
+          "text": "pour quand est prévu la fin du @covid ?"
+        },
+        {
+          "text": "le @covid se termine quand ?"
+        },
+        {
+          "text": "Combien de temps va durer le confinement? "
+        },
+        {
+          "text": "Quand le confinement va t il se terminer ?"
+        },
+        {
+          "text": "Combien de temps dois-je rester en confinement?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.9.Treatment_chloroquine",
+      "examples": [
+        {
+          "text": "on m'a dit que les traitements anti paludéen guérissent contre le covid"
+        },
+        {
+          "text": "un traitement courant contre le paludisme montre des signes d’efficacité, que sais tu à ce sujet ?"
+        },
+        {
+          "text": "Chloroquine le remède miracle ? "
+        },
+        {
+          "text": "c'est utile de prendre de la chlorokine ?"
+        },
+        {
+          "text": "Pourquoi la chloroquine n'a toujours pas été distribuée pour guérir? "
+        },
+        {
+          "text": "Que sais-tu sur la chloroquine ?"
+        },
+        {
+          "text": "le traitement anti-paludéen est il efficace contre le @covid ?"
+        },
+        {
+          "text": "Qu’est ce que la Chloroquine ? "
+        },
+        {
+          "text": "les médias et médecins rapportent que  les traitements anti paludéen guérissent le covid"
+        },
+        {
+          "text": "il parait que le vaccin anti palu serait un remède "
+        },
+        {
+          "text": "que sais-tu sur le traitement anti-paludéen ?"
+        },
+        {
+          "text": "Chloroquine la solution ?"
+        },
+        {
+          "text": "la chroloquine est elle efficace contre le @covid ?"
+        },
+        {
+          "text": "faut-il prendre de la chloroquine?"
+        },
+        {
+          "text": "la chloroquine est-elle vraiment un remède miracle ?"
+        },
+        {
+          "text": "Puis je prendre de la Nivaquine"
+        },
+        {
+          "text": "tu sais quoi sur le remède anti paludéen ?"
+        },
+        {
+          "text": "Puis-je guérir en prenant de la chloroquine ?"
+        },
+        {
+          "text": "Qu'est-ce que l'hydroxychloroquine? "
+        },
+        {
+          "text": "Qu'est-ce que le Plaquenil?"
+        },
+        {
+          "text": "Le traitement contre le paludisme est-il efficace pour le @covid?"
+        },
+        {
+          "text": "Puis-je prendre de la chloroquine de manière préventive ?"
+        },
+        {
+          "text": "Pourquoi la chloroquine n'a toujours pas été médicalisé? "
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.4.travel_backToFrance_flightBackInfo",
+      "examples": [
+        {
+          "text": "Les compagnies aériennes suspendent elles leurs vols ?"
+        },
+        {
+          "text": "Existe-t-il un site pour savoir si mon vol est maintenu ?"
+        },
+        {
+          "text": "Comment savoir si mon vol sera maintenu ?"
+        },
+        {
+          "text": "Quels sont les vols maintenus ?"
+        },
+        {
+          "text": "Je ne parviens pas à joindre ma compagnie aérienne."
+        },
+        {
+          "text": "Je veux savoir si mon vol pour rentrer en france sera maintenu la semaine prochaine mais personne ne répond au standard téléphonique."
+        },
+        {
+          "text": "Quelles sont les infos sur les vols retour ?"
+        },
+        {
+          "text": "Y a t-il des vols pour rentrer en France ? "
+        },
+        {
+          "text": "Les vols sont-ils annulés ?"
+        },
+        {
+          "text": "Ma compagnie aerienne a-t-elle obligation de me fournir un vol retour ?"
+        },
+        {
+          "text": "Est-il possible de revenir par un autre vol ?"
+        },
+        {
+          "text": "La compagnie aérienne ne répond pas"
+        },
+        {
+          "text": "Si ma compagnie aerienne n'est pas joignable, qui puis-je contacter ?"
+        },
+        {
+          "text": "Les vols sont-ils maintenus ?"
+        },
+        {
+          "text": "Les compagnies aériennes maintiennent elles leurs vols ?"
+        },
+        {
+          "text": "Par quel biais joindre ma compagnie aérienne ?"
+        },
+        {
+          "text": "Les compagnies aériennes sont injoignables"
+        },
+        {
+          "text": "Faut-il appeler l'aeroport ou la compagnie aerienne pour se renseigner sur les vols retour ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.6.Confinement_school",
+      "examples": [
+        {
+          "text": "Je suis étudiant de santé. Que dois-je faire pour aider ?"
+        },
+        {
+          "text": "Comment je continue l'école ?"
+        },
+        {
+          "text": "Comment puis-je obtenir les dernières nouvelles sur la fermeture de mon école?"
+        },
+        {
+          "text": "Puis-je aller à l'école pendant le confinement ?"
+        },
+        {
+          "text": "Puis-je aller en cours ?"
+        },
+        {
+          "text": "A quelle date les écoles vont-elles réouvrir?"
+        },
+        {
+          "text": "Quand les écoles vont-elles réouvrir ?"
+        },
+        {
+          "text": "Des classes virtuelles seront-elles organisées ?"
+        },
+        {
+          "text": "Comment faire vu que les écoles ont fermés ?"
+        },
+        {
+          "text": "Est-ce que le baccalauréat sera maintenu cette année?"
+        },
+        {
+          "text": "comment mon fils va faire pour le bac ?"
+        },
+        {
+          "text": "Mon enfant doit-il rester à la maison?"
+        },
+        {
+          "text": "Et l'école ?"
+        },
+        {
+          "text": "Que se passe-t-il après la fin de la période de fermeture ?"
+        },
+        {
+          "text": "Mon enfant peut-il aller à l'école?"
+        },
+        {
+          "text": "Comment puis-je continuer mes cours pendant le confinement ?"
+        },
+        {
+          "text": "Le baccalauréat sera-t-il maintenu cette année?"
+        },
+        {
+          "text": "Jusque quand sont fermées les écoles et les universités ?"
+        },
+        {
+          "text": "Je dois aller à l'école"
+        },
+        {
+          "text": "Les universités sont-elles closes ?"
+        },
+        {
+          "text": "L'éducation ca continue ?"
+        },
+        {
+          "text": "je suis nulle en maths comment puis je aider ma fille à faire ses devoirs ?"
+        },
+        {
+          "text": "Les lycées sont fermés, comment mon fils va-t-il s'entrainer pour le bac ?"
+        },
+        {
+          "text": "Est-ce qu'on va fermer les universités ?"
+        },
+        {
+          "text": "Les écoles sont-elles fermées ?"
+        },
+        {
+          "text": "La fac est fermées ?"
+        },
+        {
+          "text": "Quel sera l'impact sur le bac dans les lycées?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.6.Treatment_aggravatingFactors",
+      "examples": [
+        {
+          "text": "Qu'est ce qui peut aggraver l'infection ?"
+        },
+        {
+          "text": "J'ai des anti inflamattoires prescrit suites à une opérations, et j'ai les symptôme du @covid, que faire ?"
+        },
+        {
+          "text": "Quels sont les médicaments aggravants ?"
+        },
+        {
+          "text": "Qu'est-il déconseiller de prendre en cas de symptômes ?"
+        },
+        {
+          "text": "Si je prend de la cortisone, dois-je interrompre mon traitement ?"
+        },
+        {
+          "text": "La prise d'anti-inflammatoire peut-elle aggraver l'infection ?"
+        },
+        {
+          "text": "Si j'ai le @virus, quels médicaments sont proscrits ?"
+        },
+        {
+          "text": "Dois-je prendre des anti-inflammatoires ?"
+        },
+        {
+          "text": "Je met une paumade à base de cortisone, est ce dangereux de continuer ?"
+        },
+        {
+          "text": "Certains médicaments sont-ils proscrits ? "
+        },
+        {
+          "text": "Dois-je arréter de prendre des anti inflammatoires ?"
+        },
+        {
+          "text": "SI j'ai le @covid, que dois-je éviter de prendre comme médicament ?"
+        },
+        {
+          "text": "Est-ce que d'autres médicaments peuvent aggraver le COVID-19 ? "
+        },
+        {
+          "text": "Faut-il remplacer mon traitement à base d'inflamatoire ?"
+        },
+        {
+          "text": "Quels sont les facteurs aggravant ?"
+        },
+        {
+          "text": "Dois-je prendre de l'ibuprofène ? "
+        },
+        {
+          "text": "Puis-je prendre de l'ibuprofène ?"
+        },
+        {
+          "text": "Dois-je prendre de la cortisone ? "
+        },
+        {
+          "text": "En cas de @covid, que doit-on éviter de prendre ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.1.Treatment_vaccine",
+      "examples": [
+        {
+          "text": "Pourquoi faut-il du temps pour developper un vaccin ?"
+        },
+        {
+          "text": "Quels sont les effet de la Chloroquine sur le @covid ?"
+        },
+        {
+          "text": "Hormis la Chloroquine d'autres molecules sont-elles en experimentation ?"
+        },
+        {
+          "text": "D'ici combien de temps pouvons-nous espérer avoir accès à des médicaments ?"
+        },
+        {
+          "text": "Combien de temps faudra-t-il pour mettre en place un vaccin contre le covid-19 ?"
+        },
+        {
+          "text": "Quelles sont les étapes dans l'élaboration d'un vaccin ?"
+        },
+        {
+          "text": "Un vaccin existe-t-il contre le Coronavirus ?"
+        },
+        {
+          "text": "Existe-t-il un vaccin contre la contagion @covid?"
+        },
+        {
+          "text": "La Chloroquine contre le @covid ?"
+        },
+        {
+          "text": "La Chloroquine est-elle un vaccin contre le covid-19 ?"
+        },
+        {
+          "text": "Qui travaille sur les vaccins contre le corona ?"
+        },
+        {
+          "text": "Le vaccin est-il contre @covid?"
+        },
+        {
+          "text": "Peut-on partir d'un vaccin existant pour lutter conte le @covid ?"
+        },
+        {
+          "text": "A-t-on un vaccin en cours d'étude contre le @covid ?"
+        },
+        {
+          "text": "En combien de temps un vaccin peut-être développé ?"
+        },
+        {
+          "text": "L'hydroxychloroquine contre le @covid ?"
+        },
+        {
+          "text": "Il y a-t-il un traitement contre ce virus ?"
+        },
+        {
+          "text": "Quel pays est le plus avancé dans la recherche d'un vaccin contre le @covid ?"
+        },
+        {
+          "text": "Les antibiotiques utiles contre le @covid ?"
+        },
+        {
+          "text": "Quand aura on un vaccin?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "10.3.Other_Volunteering",
+      "examples": [
+        {
+          "text": "Je peux aller des personnes agées"
+        },
+        {
+          "text": "Comment aider ?"
+        },
+        {
+          "text": "Quelles associations puis-je aider ? "
+        },
+        {
+          "text": "J'ai du temps libre, comment puis-je aider ?"
+        },
+        {
+          "text": "Je suis un étudiant en médecine et je veux m'impliquer. Comment?"
+        },
+        {
+          "text": "Je veux aider avec la baby-sitter."
+        },
+        {
+          "text": "Je suis de la faculté d'enseignement et je veux aider."
+        },
+        {
+          "text": "Comment puis-je m'investir à titre personnel dans la lutte contre le covid-19 ?"
+        },
+        {
+          "text": "Je voudrais m'impliquer en tant que bénévole pour aider dans la situation actuelle, mais je ne sais pas quelles sont les options."
+        },
+        {
+          "text": "Je veux aider, je suis étudiant."
+        },
+        {
+          "text": "J'ai une expérience dans le bénévolat qui pourrait être mis à profit"
+        },
+        {
+          "text": "Je veux aider à faire des courses pour l'ancienne."
+        },
+        {
+          "text": "Avez-vous besoin de volontaire dans le cadre de l'épidémie ?"
+        },
+        {
+          "text": "Comment aider le personnel soignant ?"
+        },
+        {
+          "text": "Je suis bénévole, comment aider ?"
+        },
+        {
+          "text": "Je veux aider, je suis médecin, comment puis-je?"
+        },
+        {
+          "text": "Comment me porter volontaire ?"
+        },
+        {
+          "text": "Comment puis-je aider avec le Coronavirus ?"
+        },
+        {
+          "text": "Comment puis-je m'impliquer d'avantage ? "
+        },
+        {
+          "text": "Je veux aider les groupes à risque avec l'achat. Comment? Où devrais-je me tourner?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.6.travel_backToFrance_landingnearfrontier",
+      "examples": [
+        {
+          "text": "Où est-il préférable de traverser la frontière entre pays de Schengen ?"
+        },
+        {
+          "text": "Puis-je transiter par un pays de l'espace Schengen ?"
+        },
+        {
+          "text": "Quels sont les accords entre pays membres de l'EU pour la ciculation ?"
+        },
+        {
+          "text": "Puis-je revenir en france en faisant des escales ?"
+        },
+        {
+          "text": "Si je réside en France et que j’atterris à Londres, serai-je autorisé à rejoindre mon domicile ?"
+        },
+        {
+          "text": "Que faire si je suis bloqué lors d'une escale ?"
+        },
+        {
+          "text": "Me sera t'il possible de rentrer du royaume unis ?"
+        },
+        {
+          "text": "J'atterris à Bruxelle, je peux rentrer en France ?"
+        },
+        {
+          "text": "Qui a rétablit des contrôles à ses frontières  ?"
+        },
+        {
+          "text": "Les aeroports vont-ils fermer ?"
+        },
+        {
+          "text": "Les contrôles à la frontière ont-ils été rétablis ?"
+        },
+        {
+          "text": "Je rentre en France mais mon vol attéris à la frontière espagnol, je peux rentrer en France ?"
+        },
+        {
+          "text": "Est-il préferéble de revenir en France avec un vol sans escale ?"
+        },
+        {
+          "text": "Comment se passe le franchissement d'une frontière de l'espace Schengen ?"
+        },
+        {
+          "text": "Je suis résident français et j'atteris dans un pays frontalier "
+        },
+        {
+          "text": "Quel moyen de transport favoriser pour rentrer de l'étranger ?"
+        },
+        {
+          "text": "Peut-on encore franchir une frontière entre pays de la zone Schengen ?"
+        },
+        {
+          "text": "Est-ce que ça ira si je prends un vol qui atterit en Suisse ?"
+        },
+        {
+          "text": "Puis je attérir dans un pays limitrophe ? "
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "10.4.Business_Open_Closed",
+      "examples": [
+        {
+          "text": "Puis-je aller au musée ? "
+        },
+        {
+          "text": "Quels magasins sont fermés ?"
+        },
+        {
+          "text": "Puis-je aller faire réparer ma moto ? "
+        },
+        {
+          "text": "Quels sont les établissements soumis à l'obligation de fermeture ?"
+        },
+        {
+          "text": "Puis-je aller faire mes courses au supermarché ?"
+        },
+        {
+          "text": "Dois-je fermer mon restaurant ? "
+        },
+        {
+          "text": "Puis-je aller acheter un ordinateur ?"
+        },
+        {
+          "text": "Puis-je aller voir une exposition ?"
+        },
+        {
+          "text": "Puis-je aller faire mon marché ? "
+        },
+        {
+          "text": "Quels magasins restent ouverts ? "
+        },
+        {
+          "text": "Mon restaurant peut-il ouvrir ?"
+        },
+        {
+          "text": "Dois-je fermer mon magasin ? "
+        },
+        {
+          "text": "Puis-je aller acheter des cartouches d'encre ? "
+        },
+        {
+          "text": "Dois-je fermer mon établissment ? "
+        },
+        {
+          "text": "Puis-je aller faire réparer ma voiture ? "
+        },
+        {
+          "text": "Puis-je aller à la bibliothèque ?"
+        },
+        {
+          "text": "Quels sont les établissements autorisés à recevoir du public ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.8.Treatment_Penurie",
+      "examples": [
+        {
+          "text": "y aura t il assez de paracétamol pour surmonter la crise ?"
+        },
+        {
+          "text": "Il y a-t-il pénurie de médicaments ?"
+        },
+        {
+          "text": "y aura t il assez de médicament ?"
+        },
+        {
+          "text": "l'industrie pharmaceutique pourra t elle assurer l'approvisonnement de médicament ?"
+        },
+        {
+          "text": "l'industrie pharmaceutique pourra t elle produire assez de paracétamol et médicament ?"
+        },
+        {
+          "text": "on va avoir une pénurie de médoc ?"
+        },
+        {
+          "text": "on va manquer de doliprane ?"
+        },
+        {
+          "text": "va-t-on manquer de doliprane ?"
+        },
+        {
+          "text": "va t il y avoir une pénurie de doliprane ?"
+        },
+        {
+          "text": "Y a-t-il un risque de pénurie de médicaments ?"
+        },
+        {
+          "text": "Il y a-t-il des problèmes d'accès aux médicaments ?"
+        },
+        {
+          "text": "on va manquer de médoc ?"
+        },
+        {
+          "text": "risque-t-il d'y avoir une pénurie de paracétamol ?"
+        },
+        {
+          "text": "Il y a-t-il un problème d'accès au paracétamol ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.4.Treatment_depistage",
+      "examples": [
+        {
+          "text": "Le dépistage des voyageurs est-il obligatoire ?"
+        },
+        {
+          "text": "Où faire un test ?"
+        },
+        {
+          "text": "Je corresponds aux critères de dépistage, où puis-je me faire tester ?"
+        },
+        {
+          "text": "Peut-on le tester sur @covid pendant la période d'incubation ?"
+        },
+        {
+          "text": "Qui doit faire un test de dépistage ?"
+        },
+        {
+          "text": "Comment se faire dépister du coronavirus ?"
+        },
+        {
+          "text": "Comment se passe un test ?  "
+        },
+        {
+          "text": "Vers qui puis-je me tourner si je veux être examiné pour la présence de @covid ?"
+        },
+        {
+          "text": "Test @covd19 pour qui ?"
+        },
+        {
+          "text": "Puis-je me tester à la maison ?"
+        },
+        {
+          "text": "Le test sur @covid est-il capable de détecter la maladie même pendant la période d'incubation ?"
+        },
+        {
+          "text": "Où puis-je me faire dépister ? "
+        },
+        {
+          "text": "Est-il nécessaire de se faire tester ? "
+        },
+        {
+          "text": "Où sont les points d'échantillonnage ?"
+        },
+        {
+          "text": "Je dois me faire tester"
+        },
+        {
+          "text": "Laissez-vous être testé"
+        },
+        {
+          "text": "Où commander le test pour le coronavirus ?"
+        },
+        {
+          "text": "Test obligatoire ? "
+        },
+        {
+          "text": "Dois-je me faire tester ?"
+        },
+        {
+          "text": "Dois-je aller à la salle d'urgence?"
+        },
+        {
+          "text": "Test sur @covid, quand il est capable de détecter la maladie ?"
+        },
+        {
+          "text": "Je fais partie des personnes à risque"
+        },
+        {
+          "text": "Est-ce obligatoire de se faire dépister? "
+        },
+        {
+          "text": "Dois-je avoir une prescription médicale pour me faire tester ? "
+        },
+        {
+          "text": "Comment savoir si je suis malade ?"
+        },
+        {
+          "text": "Devrais-je aller à l'hôpital ?"
+        },
+        {
+          "text": "Comment puis-je accéder à @covid ?"
+        },
+        {
+          "text": "Dois-je voir mon médecin pour me faire tester ? "
+        },
+        {
+          "text": "Test @covid19"
+        },
+        {
+          "text": "Comment se faire tester ?"
+        },
+        {
+          "text": "Dépistage @covid19"
+        },
+        {
+          "text": "Ce que @covid a pour les indicateurs"
+        },
+        {
+          "text": "Pourquoi ne plus tester tous les patients avec symptômes ?"
+        },
+        {
+          "text": "Est-il possible de détecter la maladie même pendant la période d'incubation ?"
+        },
+        {
+          "text": "Puis-je me tester ?"
+        },
+        {
+          "text": "Mon médecin m'a prescrit un test"
+        },
+        {
+          "text": "Comment faire un test ?"
+        },
+        {
+          "text": "Je veux tester si je suis positif au @covid"
+        },
+        {
+          "text": "Quelle est la stratégie des autorités sanitaires pour les tests ?"
+        },
+        {
+          "text": "Qui doit faire le test @covid19 ? "
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "10.2.Other_Contact_Disabilities",
+      "examples": [
+        {
+          "text": "J'ai une déficience auditive, quelle est la procédure ?"
+        },
+        {
+          "text": "Je suis malentendant, comment puis-je m'informer ?"
+        },
+        {
+          "text": "Quel est le numéro pour les sourds ?"
+        },
+        {
+          "text": "J'ai du mal à lire, où puis-je me renseigner ?"
+        },
+        {
+          "text": "Quel est le numéro pour les malentendants ?"
+        },
+        {
+          "text": "Quel est le numéro pour les aveugles ?"
+        },
+        {
+          "text": "Je suis malvoyant, qui puis-je contacter ?"
+        },
+        {
+          "text": "Je suis sourd, comment puis-je m'informer ?"
+        },
+        {
+          "text": "Qui contacter si je suis malvoyant ?"
+        },
+        {
+          "text": "Je suis aveugle, comment puis-je m'informer ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.2.info_traitements",
+      "examples": [
+        {
+          "text": "Quel traitement contre le Coronavirus ?"
+        },
+        {
+          "text": "Comment puis-je me soigner ?"
+        },
+        {
+          "text": "Quel est le but du traitement contre le @covid ?"
+        },
+        {
+          "text": "Puis-je prendre un anti-virale générique contre le @covid ?"
+        },
+        {
+          "text": "Alors, quel est le traitement de cette maladie?"
+        },
+        {
+          "text": "Pourquoi parle-t-on de traitement de soutien ?"
+        },
+        {
+          "text": "Quels médicaments prendre contre le @covid ?"
+        },
+        {
+          "text": "Que soigne-t-on, lorsqu'on est malade du @covid ?"
+        },
+        {
+          "text": "Existe-t-il un traitement contre le @covid ou uniquement contre ses effets ?"
+        },
+        {
+          "text": "Quel est le traitement contre le coronavirus ?"
+        },
+        {
+          "text": "Le traitement est-il générique ou individuel à chaque personne ?"
+        },
+        {
+          "text": "il y a-t-il des médicaments pour se soigner lorsque l'on a le @covid ?"
+        },
+        {
+          "text": "Tous les symptômes du @covid, peuvent-ils être traités ?"
+        },
+        {
+          "text": "Quel traitement antiviral contre le Coronavirus ?"
+        },
+        {
+          "text": "Si je suis malade du corona, y'a-t-il des médicaments recommandés ?"
+        },
+        {
+          "text": "Quels symptômes arrive-t-on a attenuer ?"
+        },
+        {
+          "text": "SI j'ai le @covid, que dois-je prendre comme médicament ?"
+        },
+        {
+          "text": "Il existe un remède contre le corona ?"
+        },
+        {
+          "text": "Je suis vacciné contre la grippe suis-je immunisé ?"
+        },
+        {
+          "text": "Quel traitement doivent-suivre les personnes infectées par le @covid ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.11.Confinement_attestation_details",
+      "examples": [
+        {
+          "text": "Dois-je signer l'attestation à la date du jour? "
+        },
+        {
+          "text": "Comment faire pour les personnes illettrées?"
+        },
+        {
+          "text": "Je n'ai pas d’imprimante chez moi, comment faire ?"
+        },
+        {
+          "text": "Est-il indispensable d'imprimer l'attestation ou peut-on la remplir sur mobile/ordinateur et la présenter directement depuis son smartphone ?"
+        },
+        {
+          "text": "On ne précise pas l'heure du déplacement ?"
+        },
+        {
+          "text": "Faut-il que j'ai sur moi l'attestation ?"
+        },
+        {
+          "text": "Dois-je préciser la date sur l'attestation? "
+        },
+        {
+          "text": "Puis-je présenter l'attestion sur mon mobile ?"
+        },
+        {
+          "text": "Comment font les personnes illettrées ? "
+        },
+        {
+          "text": "Quand c'est la même activité réalisée plusieurs fois, elle doit être automatiquement indiquée à la date du jour sur le formulaire ?"
+        },
+        {
+          "text": "Comment peut-on présenter l'attestation ?"
+        },
+        {
+          "text": "Dois-je recopier l’entièreté de l’attestation ou puis-je simplement inscrire le motif de ma sortie sur papier libre ?"
+        },
+        {
+          "text": "L’attestation implique qu’on doive toujours sortir avec une pièce d’identité ? "
+        },
+        {
+          "text": "Comment remplir son attestation ? "
+        },
+        {
+          "text": "L'attestation marche-t-elle sur smartphone ?"
+        },
+        {
+          "text": "Est-ce que je peux écrire au crayon sur les attestations? "
+        },
+        {
+          "text": "Peut-on écrire au crayon à papier et gommer ?"
+        },
+        {
+          "text": "J'ai besoin d'aller chez le médecin, quelle case je dois cocher ?"
+        },
+        {
+          "text": "Peut-on cocher plusieurs cases et grouper ses sorties ?"
+        },
+        {
+          "text": "je peux montrer mon attestation sur téléphone ?"
+        },
+        {
+          "text": "J’ai des problèmes pour me déplacer. Puis-je bénéficier de la même attestation que mon accompagnateur ?"
+        },
+        {
+          "text": "Dois-je imprimer l'attestation ?"
+        },
+        {
+          "text": "L’attestation implique qu’on doit toujours sortir avec une pièce d’identité ?"
+        },
+        {
+          "text": "Un ami ne sait pas lire, comment faire pour les attestations? "
+        },
+        {
+          "text": "Les attestations sont-elles à usage unique?"
+        },
+        {
+          "text": "Les attestations sont-elles renouvelables? "
+        },
+        {
+          "text": "Est-il possible de cocher plusieurs cases? "
+        },
+        {
+          "text": "C’est à imprimer tous les jours ou juste une fois ? "
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.3.Traitements_what_to_do_symptomes",
+      "examples": [
+        {
+          "text": "Quels sont les effets de COVID-19 ?"
+        },
+        {
+          "text": "Suis-je malade ?"
+        },
+        {
+          "text": "Est-ce que j'ai le coronavirus? "
+        },
+        {
+          "text": "Quels sont les indicateurs ?"
+        },
+        {
+          "text": "Quels sont les symptômes de la maladie ?"
+        },
+        {
+          "text": "j'ai mal au ventre est ce que ça peut etre le covid ?"
+        },
+        {
+          "text": "J'ai des symptômes d'être malade au covid-19 ?"
+        },
+        {
+          "text": "Si je ressens des symptômes de la maladie ?"
+        },
+        {
+          "text": "Comment faire la distinction avec les rhumes normaux ?"
+        },
+        {
+          "text": "Maux de tête, est-ce le @covidflag?"
+        },
+        {
+          "text": "Comment puis-je savoir que je suis malade?"
+        },
+        {
+          "text": "J'ai de la fièvre"
+        },
+        {
+          "text": "Température"
+        },
+        {
+          "text": "Quels sont les symptômes du @covid?"
+        },
+        {
+          "text": "Comment un homme peut-il savoir qu'il est infecté?"
+        },
+        {
+          "text": "Symptômes"
+        },
+        {
+          "text": "Ce que @covid a comme symptomes ?"
+        },
+        {
+          "text": "Détresse respiratoire"
+        },
+        {
+          "text": "Suis-je infécté ? "
+        },
+        {
+          "text": "Toux irritante"
+        },
+        {
+          "text": "Ai-je le covid-19 si j'ai des difficultés respiratoires et de la fièvre ?"
+        },
+        {
+          "text": "J'ai de la température ; que faut-il faire ?"
+        },
+        {
+          "text": "Comment se manifeste le @covid?"
+        },
+        {
+          "text": "Ma tête me fait mal, j'ai un @covid?"
+        },
+        {
+          "text": "Que faire lorsque j'ai @covid?"
+        },
+        {
+          "text": "Je me sens mal"
+        },
+        {
+          "text": "A quoi reconnait-on le @covid?"
+        },
+        {
+          "text": "Que provoque le @covid ?"
+        },
+        {
+          "text": "Je tousse, que dois-je faire?"
+        },
+        {
+          "text": "Quels sont les symptomes du coronavirus ?"
+        },
+        {
+          "text": "Quels sont les différences de symptômes entre la grippe et le @covid ?"
+        },
+        {
+          "text": "Cou incurvé"
+        },
+        {
+          "text": "Rhume"
+        },
+        {
+          "text": "Je pense que j'ai @covid"
+        },
+        {
+          "text": "Comment savoir si j'ai le @covid?"
+        },
+        {
+          "text": "J'ai peur d'avoir un @covid"
+        },
+        {
+          "text": "Quels sont les symptômes typiques de cette maladie ?"
+        },
+        {
+          "text": "Je suis malade"
+        },
+        {
+          "text": "J'ai une température et une toux. Ai-je un @covid?"
+        },
+        {
+          "text": "Toux"
+        },
+        {
+          "text": "Je ne me sens pas bien."
+        },
+        {
+          "text": "Ai-je le @covid?"
+        },
+        {
+          "text": "Quels sont les symptômes principaux lorsque l'on a le COVID-19 ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.4.Prevention_Mask",
+      "examples": [
+        {
+          "text": "Puis-je réutiliser un masque ayant déjà été porté ?"
+        },
+        {
+          "text": "Un masque est-il suffisant pour me protéger ?"
+        },
+        {
+          "text": "Dois-je porter un masque ?"
+        },
+        {
+          "text": "Est-il obligatoire de porter un masque si on sort à l'extérieur ?"
+        },
+        {
+          "text": "Un masque peut-il me protéger du COVID-19 ?"
+        },
+        {
+          "text": "Quels sont les différents types de masque pour se protéger ?"
+        },
+        {
+          "text": "Si je ne suis pas malade dois-je porter un masque ?"
+        },
+        {
+          "text": "Est-il recommandé de porter un masque lorsqu'on se rend au supermarché ?"
+        },
+        {
+          "text": "Le masque est-il la bonne réponse pour se protéger ?"
+        },
+        {
+          "text": "Un masque FFP2 peut-il me protéger ?"
+        },
+        {
+          "text": "Je dois utiliser un masque ou pas ?"
+        },
+        {
+          "text": "Pourquoi le port du masque n'est pas la bonne réponse ? "
+        },
+        {
+          "text": "Dois-je porter un masque si je vais faire mes courses ?"
+        },
+        {
+          "text": "Un masque FFP3 peut-il me protéger ?"
+        },
+        {
+          "text": "Le masque va-t-il me protéger ?"
+        },
+        {
+          "text": "Je suis confiné avec un porteur du @covid, dois-je porter un masque ?"
+        },
+        {
+          "text": "Le port du masque par les porteurs sains est-il efficace ?"
+        },
+        {
+          "text": "Porter un masque me protège-t-il du @covid ?"
+        },
+        {
+          "text": "Faut-il que je porte un masque ?"
+        },
+        {
+          "text": "Porter le masque à l'extérieur est-il recommandé ?"
+        },
+        {
+          "text": "Pourquoi le masque n'est pas la bonne réponse pour se protéger ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "10.1.Economy_Impact",
+      "examples": [
+        {
+          "text": "Quelles sont les conséquences économiques pour la France en terme de PIB ?"
+        },
+        {
+          "text": "Il y a-t-il des conséquences économiques pour la France ?"
+        },
+        {
+          "text": "Quelles sont les conséquences économiques pour la France ?"
+        },
+        {
+          "text": "Quel impact sur le PIB ?"
+        },
+        {
+          "text": "Comment l'économie va réagir ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.6aboutVirus_futur",
+      "examples": [
+        {
+          "text": "Comment le @covid va-t-il évoluer dans les semaines à venir ?"
+        },
+        {
+          "text": "Que va t'il se passer dans les jours qui viennent pour le @covid ?"
+        },
+        {
+          "text": "Avec l'évolution du virus, les jeunes ont-ils plus de risques d'en mourir ?"
+        },
+        {
+          "text": "A quoi sert la limitation de la propagation du @covid ?"
+        },
+        {
+          "text": "Comment limiter la vitesse de propagation du @covid ?"
+        },
+        {
+          "text": "Quelle population future sera touchée? "
+        },
+        {
+          "text": "Y aura t-il une seconde vague de virus qui touchera les plus jeunes ?"
+        },
+        {
+          "text": "Les jeunes seront-ils touchés? "
+        },
+        {
+          "text": "on va mourrir ?"
+        },
+        {
+          "text": "A quoi servent les mesures prisent par le Président de la République ?"
+        },
+        {
+          "text": "Que montrent les études internationnales ?"
+        },
+        {
+          "text": "Doit-on limiter la propagation du @covid ?"
+        },
+        {
+          "text": "Quel est le futur du @covid? "
+        },
+        {
+          "text": "L'ensemble de la population est-elle impactée par le @covid ?"
+        },
+        {
+          "text": "Pourquoi limiter la vitesse de propagation du @covid ?"
+        },
+        {
+          "text": "Les personnes jeunes peuvent-elles développer des formes graves de @covid?"
+        },
+        {
+          "text": "Les jeunes peuvent-ils contracter le @covid ?"
+        },
+        {
+          "text": "Qui a été contaminé par le @covid dans les autres pays ?"
+        },
+        {
+          "text": "Est ce que les scientifiques arrivent nous projeter avec le @covid ?"
+        },
+        {
+          "text": "Sait-on combien de temps ça va durer le @covid ?"
+        },
+        {
+          "text": "Que deviendra le @covid ?"
+        },
+        {
+          "text": "Comment va évoluer le COVID-19 ?"
+        },
+        {
+          "text": "L'ensemble de cas graves de @covid, sont ils des personnes vulnérables ?"
+        },
+        {
+          "text": "Chez qui des cas graves se sont-ils declarés ?"
+        },
+        {
+          "text": "Selon les études quelle population est concernée par le @covid?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.2.travel_backToFrance_WhenAndHow",
+      "examples": [
+        {
+          "text": "comment fonctionne le rapatriement de ressortissants français ?"
+        },
+        {
+          "text": "c'est vrai qu'il faut être rapatrié si on est à l'étranger ?"
+        },
+        {
+          "text": "je veux pas revenir en France moi..."
+        },
+        {
+          "text": "Y a-t-il des personnes prioritaires  pour le rapatriement ? Personnes fragiles ? Etudiants ?"
+        },
+        {
+          "text": "La france organise t elle le rapatriement de ses ressortissants ?"
+        },
+        {
+          "text": "J'ai du me rendre à l'étranger il y a 2 semaines et je veux rentrer en France, c'est possible ?"
+        },
+        {
+          "text": "Je suis actuellement en déplacement temporaire à l’étranger et je suis en attente d’un vol, mais ne dispose pas d’hébergement et suis en difficulté, un service d’urgence peut-il me venir en aide ?"
+        },
+        {
+          "text": "J’ai un vol dans quelques jours, dois-je attendre ou essayer de rentrer maintenant ?"
+        },
+        {
+          "text": "J’ai déjà un billet, dois-je l’annuler et me faire rapatrier ?"
+        },
+        {
+          "text": "Je suis Français, actuellement en deplacement à l'étranger, comment va être organisé le retour des Français ?"
+        },
+        {
+          "text": "Je suis à l'étranger, dois-je demander le rapatriement ?"
+        },
+        {
+          "text": "Si je suis déjà à l'étranger, pourrais-je revenir en France pendant la période de confinement ?"
+        },
+        {
+          "text": "sérieux il faut que je rentre en France maintenant ?"
+        },
+        {
+          "text": "Je suis un ressortissant français actuellement en déplacement temporaire à l’étranger. Dois-je rentrer immédiatement en France ?"
+        },
+        {
+          "text": "Je suis résident français et bloqué à l'étranger, que faire ?"
+        },
+        {
+          "text": "Je suis à l'étranger, quand et comment rentrer en France ?"
+        },
+        {
+          "text": "Comment faire si un vol international n’est pas assuré lors d’une correspondance et que je reste bloqué à l’aéroport en zone internationale ?"
+        },
+        {
+          "text": "Est-ce qu'il y a des créneaux pour revenir en France ?"
+        },
+        {
+          "text": "j'ai un billet pour Paris demain, je peux prendre l'avion malgré le confinement ?"
+        },
+        {
+          "text": "Je suis bloqué en Chine que faire ?"
+        },
+        {
+          "text": "comment rentrer en France si on est à l'étranger ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.2.Prevention_desinfection",
+      "examples": [
+        {
+          "text": "Comment puis-je me désinfecter ?"
+        },
+        {
+          "text": "comment me débarrasser du virus chez moi"
+        },
+        {
+          "text": "Comment nettoyer correctement ma maison ?"
+        },
+        {
+          "text": "Je suis censé désinfecter mon téléphone portable après être rentré à la maison ?"
+        },
+        {
+          "text": "L'alcool tue-t-il le coronavirus ?"
+        },
+        {
+          "text": "les magasins n'ont plus de lingettes désinfectantes, que dois-je faire ?"
+        },
+        {
+          "text": "Désinfecter @product"
+        },
+        {
+          "text": "Quelles surfaces doit-je désinfecter en priorité ?"
+        },
+        {
+          "text": "Comment désinfecter contre le COVID-19 ?"
+        },
+        {
+          "text": "dois-je nettoyer régulièrement ma maison pour éviter la propagation du coronavirus ?"
+        },
+        {
+          "text": "Puis-je utiliser du vinaigre blanc pour désinfecter les surfaces ?"
+        },
+        {
+          "text": "puis-je utiliser de l'eau de Javel pour tuer le coronavirus?"
+        },
+        {
+          "text": "Peut-on être contaminé en touchant un caddie de supermarché ?"
+        },
+        {
+          "text": "Le savon est-il suffisant pour se désinfecter ?"
+        },
+        {
+          "text": "Existe-t-il des désinfectants qui peuvent inactiver (tuer) le @covid ?"
+        },
+        {
+          "text": "Quelle est la différence entre le nettoyage et la désinfection ?"
+        },
+        {
+          "text": "Shout @product"
+        },
+        {
+          "text": "Quelles sont les méthodes de nettoyage qui tuent le coronavirus??"
+        },
+        {
+          "text": "Nettoyer @product"
+        },
+        {
+          "text": "Quels produits prendre pour désinfecter la maison ?"
+        },
+        {
+          "text": "peut-on manger des patisseries, sans être infecté par le coronavirus ?"
+        },
+        {
+          "text": "Quels sont les produits désinfectants contre le @covid ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.5.aboutVirus_mutation",
+      "examples": [
+        {
+          "text": "Qu'est ce qu'une mutation ?"
+        },
+        {
+          "text": "Le @covid est il le même dans tous les pays ?"
+        },
+        {
+          "text": "Combien de souche existe-t-il ?"
+        },
+        {
+          "text": "mutation du @covid"
+        },
+        {
+          "text": "Le virus peut-il muter ?"
+        },
+        {
+          "text": "Quelles sont les differences entre les formes L et S du @covid ?"
+        },
+        {
+          "text": "Est-ce que le virus a muté ?"
+        },
+        {
+          "text": "Quelle est la souche la plus répendue de @covid ?"
+        },
+        {
+          "text": "Quelle est la souche originale du @covid ?"
+        },
+        {
+          "text": "Parle moi de la mutation du @covid ?"
+        },
+        {
+          "text": "Comment mute le @covid ? "
+        },
+        {
+          "text": "On contracte pas tous le même @covid, quelles sont les différences ? "
+        },
+        {
+          "text": "Le virus change-t-il avec le temps?"
+        },
+        {
+          "text": "Est ce qu'il y a différents types de @covid "
+        },
+        {
+          "text": "Sait-on comment le @covid a t'il muté ?"
+        },
+        {
+          "text": "Comment le @covide a t'il muté ?"
+        },
+        {
+          "text": "Quelles sont les mutations du @covid ?"
+        },
+        {
+          "text": "Comment le @covid peut-il se transformer ?"
+        },
+        {
+          "text": "changement virus"
+        },
+        {
+          "text": "Le virus a-t-il muté ? "
+        },
+        {
+          "text": "Combien existe t'il de forme de @covid ?"
+        },
+        {
+          "text": "Pourquoi existe-t-il plusieurs souches ?"
+        },
+        {
+          "text": "Si on est infecté par une souche est-on immunisé pour toutes les souches ?"
+        },
+        {
+          "text": "J'ai lu que le virus changeait, est-ce qu'il y a plusieurs @covid ? "
+        },
+        {
+          "text": "Quelles sont les mutations possibles du virus ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.2.Confinement_Rules_goingOut",
+      "examples": [
+        {
+          "text": "Mon père peut-il venir m'apporter mes médicaments pendant le confinement ?"
+        },
+        {
+          "text": "Ai-je le droit d'aller voir mon médecin ? "
+        },
+        {
+          "text": "Ma famille peut-elle me rendre visite pendant ma quarantaine ?"
+        },
+        {
+          "text": "Ai-je le droit de faire de me balader ? "
+        },
+        {
+          "text": "Puis-je aider mes grands-parents ?"
+        },
+        {
+          "text": "Pour quelles raisons ai je le droit de me déplacer ?"
+        },
+        {
+          "text": "Je peux voir un match de foot"
+        },
+        {
+          "text": "Quelqu'un peut-il venir me rendre visite pdt le confinement?"
+        },
+        {
+          "text": "il faut que j'aille dans ma maison secondaire, ai-je le droit de me déplacer ?"
+        },
+        {
+          "text": "Puis-je faire du sport en groupe ? "
+        },
+        {
+          "text": "Puis-je accepter des visites pendant le confinement ?"
+        },
+        {
+          "text": "J'ai le droit d'aller marcher sur les bords de seine pendant le confiement ?"
+        },
+        {
+          "text": "Puis-je accepter ma visite pendant la quarantaine ?"
+        },
+        {
+          "text": "Puis-je faire du sport ?"
+        },
+        {
+          "text": "Quelles sont les règles pratiques pour le confinement ?"
+        },
+        {
+          "text": "Aller se dégourdir les jambes au bord de la plage durant le confinement est-il interdit ?"
+        },
+        {
+          "text": "Quels déplacements sont interdits? "
+        },
+        {
+          "text": "Puis-je me rendre chez un professionnel de santé ?"
+        },
+        {
+          "text": "Puis-je aller en fôrêt pendant le confinement ?"
+        },
+        {
+          "text": "puis je aller chez mes parents m'installer, ils ont une maison à la campagne et on pourra faire des barbecue"
+        },
+        {
+          "text": "Quelles sont les règles du confinement ?"
+        },
+        {
+          "text": "Je veux aller au cinéma "
+        },
+        {
+          "text": "Durant la quarantaine mon copain peut il me rendre visite pour m'apporter les courses ?"
+        },
+        {
+          "text": "Puis-je sortir de ma maison ?"
+        },
+        {
+          "text": "J'ai le droit de sortir promener mon chier à plus de 2 kms pendant le confinement ?"
+        },
+        {
+          "text": "Je peux me rendre dans ma maison de vacances ?"
+        },
+        {
+          "text": "Ma famille peut-elle me rendre visite pendant mon confinement ?"
+        },
+        {
+          "text": "Comment faire pour me rendre dans ma maison de vacance dans le sud ?"
+        },
+        {
+          "text": "puis je aller voir ma grand mère pour jouer au scrable avec elle, elle s'ennuie ?"
+        },
+        {
+          "text": "Quels sont les déplacements autorisés pendant le confinement ?"
+        },
+        {
+          "text": "Les visites sont-elles autorisées pendant la quarantaine ?"
+        },
+        {
+          "text": "Puis je aller dans ma résidence secondaire ?"
+        },
+        {
+          "text": "Je suis en quarantaine à la maison, mes parents peuvent-ils venir ?"
+        },
+        {
+          "text": "Qui peut venir me visiter si je suis en quarantaine ?"
+        },
+        {
+          "text": "pourquoi faire un tennis c'est pas autorisé, y a pas de contact"
+        },
+        {
+          "text": "Qui peut me rendre visite ?"
+        },
+        {
+          "text": "j'ai envie de faire un tennis"
+        },
+        {
+          "text": "Les visites sont-elles autorisées pendant la confinement?"
+        },
+        {
+          "text": "quelle est la durée maximale de sortie ?"
+        },
+        {
+          "text": "Puis-je aller voir un film ou un match, aller à la piscine ?"
+        },
+        {
+          "text": "Quelqu'un peut-il me rendre visite en quarantaine ?"
+        },
+        {
+          "text": "Quelles sont les règles relatives à l'isolement sanitaire ?"
+        },
+        {
+          "text": "Ai-je le droit de faire du sport ?"
+        },
+        {
+          "text": "Quels déplacements sont autorisés? "
+        },
+        {
+          "text": "Qu'a t on le droit de faire en confinement ?"
+        },
+        {
+          "text": "Je peux aller courir sur la plage pendant le confinement ?"
+        },
+        {
+          "text": "Dans quels cas je peux me déplacer en dehors de chez moi ?"
+        },
+        {
+          "text": "Puis-je aller courir ?"
+        },
+        {
+          "text": "je peux aller voir mes voisins?"
+        },
+        {
+          "text": "Puis-je me déplacer pour la garde de mes enfants ? "
+        },
+        {
+          "text": "Comment adhérer aux règles de l'isolement ?"
+        },
+        {
+          "text": "Ai-je le droit d'aller voir mon médecin ?"
+        },
+        {
+          "text": "Une sortie m'est-elle permise pendant le confinement ?"
+        },
+        {
+          "text": "Est-ce possible de sortir ? "
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.7.aboutVirus_FranceReady",
+      "examples": [
+        {
+          "text": "Pourquoi la France est-elle en retard dans la lutte contre le @covid ?"
+        },
+        {
+          "text": "Avons-nous assez d'action?"
+        },
+        {
+          "text": "Que fait le gouvernement face à l'épidémie ?"
+        },
+        {
+          "text": "Comment sommes nous informé de l'evolution du @covid ?"
+        },
+        {
+          "text": "le président en fait il assez ?"
+        },
+        {
+          "text": "comment agit la france face au @covid ?"
+        },
+        {
+          "text": "La france a-t-elle prise toutes les mesures pour lutter contre le @covid ?"
+        },
+        {
+          "text": "Quelles sont les mesures prises par le gouvernement français ?"
+        },
+        {
+          "text": "Est ce que la france réagit suffisamment pour le @covid ?"
+        },
+        {
+          "text": "En faisons nous assez ?"
+        },
+        {
+          "text": "Et qu'en est-il des précautions prises par la France contre @covid ?"
+        },
+        {
+          "text": "le gouverment prend il des actions radicales ?"
+        },
+        {
+          "text": "C'est quoi les mesures de la france par rapport au @covid  ?"
+        },
+        {
+          "text": "Qui gère le suivi de la progression du @covid ?"
+        },
+        {
+          "text": "Quelles sont les actions prises en france contre le @covid ?"
+        },
+        {
+          "text": "Le gouvernement est-il prêt pour @covid ?"
+        },
+        {
+          "text": "Il a décidé quoi le gouvernement pour lutter contre le @covid ?"
+        },
+        {
+          "text": "Comment la France agit-elle contre le COVID-19 ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.2.aboutVirus_Transmission",
+      "examples": [
+        {
+          "text": "Comment la contagion se propage ?"
+        },
+        {
+          "text": "Comment puis-je me rendre malade avec le @covid ?"
+        },
+        {
+          "text": "Peut-on attraper la maladie par de la nourriture ?"
+        },
+        {
+          "text": "Si je suis infectée, je peux le transmettre à ma famille en préparant à manger ?"
+        },
+        {
+          "text": "Si j'ai le @covid et que je prépare le repas, puis-je le transmettre à mes proche ?"
+        },
+        {
+          "text": "Peut-on attraper la maladie par l’eau ?"
+        },
+        {
+          "text": "Comment @covid se propage ?"
+        },
+        {
+          "text": "Comment se transmet le virus ?"
+        },
+        {
+          "text": "Existe-t-il des risques liés aux animaux domestiques (d'élevage et familiers) ?"
+        },
+        {
+          "text": "Mon chat est-il infecté?"
+        },
+        {
+          "text": "Mon chien est-il infecté?"
+        },
+        {
+          "text": "Dans quelle mesure le saumon kéta est-il infecté ?"
+        },
+        {
+          "text": "Comment puis-je être infecté ?"
+        },
+        {
+          "text": "Les porteurs sains peuvent ils transmettre le virus ?"
+        },
+        {
+          "text": "Comment les gens sont-ils contaminés ?"
+        },
+        {
+          "text": "Où le virus se transmet-il le plus ?"
+        },
+        {
+          "text": "Si je suis porteur sain, je peux aussi le transmettre ?"
+        },
+        {
+          "text": "Transfert de Coronavirus à d'autres"
+        },
+        {
+          "text": "Depuis quand l'homme est capable d'infecter d'autres personnes"
+        },
+        {
+          "text": "Est-ce que le @covid se transmet à travers les aliments ?"
+        },
+        {
+          "text": "Le @covid se propage-til dans l'eau ?"
+        },
+        {
+          "text": "Dans quelle mesure le virus se transmet dans un espace clos ?"
+        },
+        {
+          "text": "Comment transférer le @covid ?"
+        },
+        {
+          "text": "Le @covid se propage-til dans l'air ?"
+        },
+        {
+          "text": "Parles moi de la transmission du virus"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.6.Prevention_ContactInfection",
+      "examples": [
+        {
+          "text": "Où trouver des informations supplémentaires sur @covid ?"
+        },
+        {
+          "text": "Je connais une personne qui a le @covid que faire? "
+        },
+        {
+          "text": "J'ai de la toux et des difficultés respiratoire, que faire ?"
+        },
+        {
+          "text": "Où puis-je obtenir plus d'informations sur @covid ?"
+        },
+        {
+          "text": "Que puis je faire pour éviter la contamination si je vis avec un malade ?"
+        },
+        {
+          "text": "Mon mari est contaminé, que dois-je faire ?"
+        },
+        {
+          "text": "Qui puis-je appeler pour obtenir de plus amples renseignements ?"
+        },
+        {
+          "text": "Dans quels cas contacter le 15 ?"
+        },
+        {
+          "text": "Où puis-je trouver l'information ?"
+        },
+        {
+          "text": "Mon compagnon est malade, est ce que je risque d'etre contaminée ?"
+        },
+        {
+          "text": "Je pense que je suis infecté."
+        },
+        {
+          "text": "Je pense que j'ai le virus."
+        },
+        {
+          "text": "Je suis confiné avec une personne infecté"
+        },
+        {
+          "text": "J'ai voyagé récemment. Que fais-je ?"
+        },
+        {
+          "text": "Quels sont les numéros utiles ?"
+        },
+        {
+          "text": "Quel est le numéro vert ?"
+        },
+        {
+          "text": "Quand dois-je prendre ma temperature ?"
+        },
+        {
+          "text": "Qui devrais-je appeler si j'ai des symptômes ?"
+        },
+        {
+          "text": "J'ai un collègue infecté que faire? "
+        },
+        {
+          "text": "Que dois-je faire si j'ai eu un contact étroit avec une personne atteinte du coronavirus ?"
+        },
+        {
+          "text": "Quel est le numéro du SAMU ?"
+        },
+        {
+          "text": "Je reviens de voyage et j'ai de la température ; que dois-je faire ?"
+        },
+        {
+          "text": "J'ai été en contact avec une personne inféctée"
+        },
+        {
+          "text": "Je connais une personne infectée"
+        },
+        {
+          "text": "Que dois-je faire si je suis en contact avec une personne infectée ?"
+        },
+        {
+          "text": "Qui dois-je appeler ?"
+        },
+        {
+          "text": "Comment s'informer ?"
+        },
+        {
+          "text": "J'ai été en contact avec mon voisin de palier malade ; que dois-je faire ?"
+        },
+        {
+          "text": "Comment appeler à l'aide ?"
+        },
+        {
+          "text": "Mon copain à de la fièvre et tousse, dois-je l'enfermer à la cave ?"
+        },
+        {
+          "text": "J'ai voyagé en Italie récemment. Que dois-je faire ?"
+        },
+        {
+          "text": "J'ai des soupcons qui je peux appeler ?"
+        },
+        {
+          "text": "Je suis un professionel de santé et mon mari a le @covid, que faire ? "
+        },
+        {
+          "text": "Qui dois-je contacter en cas de symptômes ?"
+        },
+        {
+          "text": "Qui devrais-je contacter @covid ?"
+        },
+        {
+          "text": "Puis-je appeler mon médecin ?"
+        },
+        {
+          "text": "Il y a-t-il un numéro vert ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.3.aboutVirus_HighRiskGroups",
+      "examples": [
+        {
+          "text": "Qui est le plus à risque ?"
+        },
+        {
+          "text": "Quelles sont les personnes les plus menacées ?"
+        },
+        {
+          "text": "Je suis dialisé, ai-je plus de risques ?"
+        },
+        {
+          "text": "Quel groupe est le plus menacé?"
+        },
+        {
+          "text": "Suis- je à risque ?"
+        },
+        {
+          "text": "A-t-on plus de probabilité de mourir si j'ai un cancer ?"
+        },
+        {
+          "text": "Quels sont les groupes de résidents les plus vulnérables?"
+        },
+        {
+          "text": "Les personnes malades du cancer sont-elles plus vulnérables ?"
+        },
+        {
+          "text": "Quelles sont les personnes à risque? "
+        },
+        {
+          "text": "Dans quelles mesures les personnes agées sont plus vulnérables ?"
+        },
+        {
+          "text": "Le @covid est-il dangereux ?"
+        },
+        {
+          "text": "Le virus est-il dangereux pour la grossesse?"
+        },
+        {
+          "text": "Qui est considéré comme une personne à risque ?"
+        },
+        {
+          "text": "Comment savoir si je suis une personne à risque ?"
+        },
+        {
+          "text": "J'ai le cancer, suis-je une personne à risque? "
+        },
+        {
+          "text": "Est-ce dangereux ?"
+        },
+        {
+          "text": "Quelles sont les personnes le splus vulnérable ?"
+        },
+        {
+          "text": "Est-ce que je suis menacé par le coronavirus si j'ai un cancer?"
+        },
+        {
+          "text": "Mon fils a une myopathie, est il a risque ?"
+        },
+        {
+          "text": "Quels sont les riques du @covid pour les femmes enceintes ?"
+        },
+        {
+          "text": "Quels groupes sont menacés ?"
+        },
+        {
+          "text": "Qui est en danger ? "
+        },
+        {
+          "text": "Les enfants sont-ils plus protégés du @covid que les personnes agées ?"
+        },
+        {
+          "text": "Est-ce que mes grands-parents sont des personnes à risques? "
+        },
+        {
+          "text": "Ma grand mère a-t-elle le plus de risque de mourrir du @covid ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.8.travel_frenchLivingAbroad",
+      "examples": [
+        {
+          "text": "Je suis ressortissant français et vis habituellement à l’étranger. Est-ce que je peux voyager vers la France ?"
+        },
+        {
+          "text": "Je suis à l'etranger, faut-il que je me signale aux autorités françaises ?"
+        },
+        {
+          "text": "Je suis Français, faut-il que je reste dans le pays ou je vie ?"
+        },
+        {
+          "text": "Aujourd'hui je suis en bonne santé mais je veux rentrer en France."
+        },
+        {
+          "text": "Je suis Français, ayant votre résidence habituelle en dehors de l’espace européen, comment va être organisé le retour des Français ?"
+        },
+        {
+          "text": "Qui dois-je contacter pour organiser mon rappatriement ?"
+        },
+        {
+          "text": "Je vie à l'etranger ma famille est en France, puis-je rentrer ?"
+        },
+        {
+          "text": "Mon logement principal est en Esapgne, dois-je rentrer en France ?"
+        },
+        {
+          "text": "Mes conditions médicales requièrent un rappatriement, comment faire ?"
+        },
+        {
+          "text": "Je suis français mais j'habite en Chine, dois-je quand même demander le rapatriement ?"
+        },
+        {
+          "text": "Je vis en Italie mais suis Francais, suis-je obligé de rentrer en France pour le confinement ?"
+        },
+        {
+          "text": "Je suis Français résidant à l'étranger, que faire ?"
+        },
+        {
+          "text": "Je suis en Afrique, il m'est impossible de joindre des représentants français."
+        },
+        {
+          "text": "Je vis à l'étranger, dois-je y rester ?"
+        },
+        {
+          "text": "Ma maison principale est en Italie, en tant que français, dois-je rentrer en France ?"
+        },
+        {
+          "text": "Est-il encore possible d'effectuer des voyages internationaux ?"
+        },
+        {
+          "text": "Vue les conditions sanitaire ou je me trouve, puis-je être rappatrier ?"
+        },
+        {
+          "text": "Quelles sont les demarches pour faire connaitre ma situation à l'etranger ?"
+        },
+        {
+          "text": "Est-il possible de se faire rappatrier ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.7.Prevention_Violence",
+      "examples": [
+        {
+          "text": "Mon mari est violent avec moi et les enfants "
+        },
+        {
+          "text": "Mon compagnon me frappe"
+        },
+        {
+          "text": "Que faire si je suis victime de violence ? "
+        },
+        {
+          "text": "Mon conjoint lève la main sur les enfants "
+        },
+        {
+          "text": "J'ai été battue par mon mari"
+        },
+        {
+          "text": "Mon mari est en manque et s'acharne sur moi"
+        },
+        {
+          "text": "Mon conjoint frappe les enfants"
+        },
+        {
+          "text": "Je suis victime de violence conjugale"
+        },
+        {
+          "text": "Mes enfants ont reçu une correction de mon compagnon"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.7.Confinement_Senior",
+      "examples": [
+        {
+          "text": "Recommandations pour les personnes pendant 70 ans"
+        },
+        {
+          "text": "Les professionnels des EHPAD sont également mobilisés afin de modifier les habitudes au sein de ces structures."
+        },
+        {
+          "text": "La situation dans les EPAD va être dramatique, comment y remedier ?"
+        },
+        {
+          "text": "Mon fils peut il aller voir sa grand-mère ?"
+        },
+        {
+          "text": "Le service de la Poste au pret des personnes agés est-il maintenu ?"
+        },
+        {
+          "text": "Les repas sont ils prit en commun dans les EHPAD ?"
+        },
+        {
+          "text": "Faut-il faire venir notre mère à la maison ?"
+        },
+        {
+          "text": "Faut-il que nous allions chercher notre père dans son EHPAD ?"
+        },
+        {
+          "text": "Comment se passe la confinement pour des personnes agées ?"
+        },
+        {
+          "text": "Puis-je rendre visite à une personne âgée ?"
+        },
+        {
+          "text": "Les résidents des EHPAD utilisent ils toujours les pieces communes ?"
+        },
+        {
+          "text": "Existe-t-il un plan special pour proteger les seniors ?"
+        },
+        {
+          "text": "Comment vivent les personnes agées en confinement ?"
+        },
+        {
+          "text": "Y'a t'il assez de personnel soignant dans les maisons de retraite ?"
+        },
+        {
+          "text": "Faut-il plus de personnel soignant dans les EHPAD ?"
+        },
+        {
+          "text": "Tous les EHPAD sont ils confinés ?"
+        },
+        {
+          "text": "Quelles sont les mesures pour les personnes âgées ?"
+        },
+        {
+          "text": "Des visites sont elles possibles aux personnes agées isolée ?"
+        },
+        {
+          "text": "Ma fille peut-elle aller rendre visite a son grand-père ?"
+        },
+        {
+          "text": "Comment aider ma grand-mère qui vie seule à la campagne ?"
+        },
+        {
+          "text": "Réduction massive des visites : enfants de moins de 15 ans, proches ou extérieurs présentant des symptômes ou malades."
+        },
+        {
+          "text": "Est-ce que les personnes âgées peuvent sortir?"
+        },
+        {
+          "text": "Ma mère en EHPAD est elle en sécurité ?"
+        },
+        {
+          "text": "Le personnel en EHPAD est-il assez nombreux ?"
+        },
+        {
+          "text": "Quelles sont les mesures de confinement pour les personnes âgées ? "
+        },
+        {
+          "text": "Comment sont gerés les visites en EHPAD ?"
+        },
+        {
+          "text": "Ai-je le droit d'aller visiter ma Grand-Mère ?"
+        },
+        {
+          "text": "Les maisons de retraite sont elles sure ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.9.Confinement_violation",
+      "examples": [
+        {
+          "text": "à combien est l'amende ?"
+        },
+        {
+          "text": "Quelle est l'amende si je sors sans raison ?"
+        },
+        {
+          "text": "Reconduite à domicile en cas d'amende ?"
+        },
+        {
+          "text": "Qui peut me contrôler ?"
+        },
+        {
+          "text": "Quelle est la majoration en cas de récidive d'absence d'autorisation ?"
+        },
+        {
+          "text": "Comment le confinement se fait-il respecter ?"
+        },
+        {
+          "text": "Quels sont les risques sans attestation ?"
+        },
+        {
+          "text": "A combien se porte l'amende? "
+        },
+        {
+          "text": "A qui dois-je présenter mon autorisation de déplacement ?"
+        },
+        {
+          "text": "Qui contrôle les personnes en confinement?"
+        },
+        {
+          "text": "Les policiers peuvent-ils m'arrêter dans la rue ?"
+        },
+        {
+          "text": "Qu'est ce qu'on encourt si on sort sans autorisation ?"
+        },
+        {
+          "text": "Les forces de l'ordre font-elles des contrôles approfondis ?"
+        },
+        {
+          "text": "A quelles sanctions suis-je exposé si je sors sans autorisation ?"
+        },
+        {
+          "text": "Quelles sont les sanctions si on sort ?"
+        },
+        {
+          "text": "Est-ce que je risque la prison si je récidive ? "
+        },
+        {
+          "text": "Quelles sont les amendes si on se rend dans notre maison de campagne ?"
+        },
+        {
+          "text": "Quelle est l'amende si je n'ai pas d'attestation ?"
+        },
+        {
+          "text": "Les amendes sont elles élevées ?"
+        },
+        {
+          "text": "Quelles sont les amendes si je sors sans attestation de déplacement ? "
+        },
+        {
+          "text": "Qui contrôle les personnes en isolement?"
+        },
+        {
+          "text": "J'ai oublié plusieurs fois ma attestation, est-ce grave ?"
+        },
+        {
+          "text": "La Police Municipale a-t-elle le droit de me demander mon autorisation de déplacement ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "03.7.Treatment_doctor",
+      "examples": [
+        {
+          "text": "je suis malade, que dois-je faire ?"
+        },
+        {
+          "text": "Que faire si j'ai le Coronavirus ? "
+        },
+        {
+          "text": "J'ai le @covid, que dois-je faire ?"
+        },
+        {
+          "text": "Que dois-je faire si je suis détecté positif au covid-19 ?"
+        },
+        {
+          "text": "Je suis malade, je suis censé aller chez le médecin ?"
+        },
+        {
+          "text": "Que dois-je faire si j'ai de la toux et de la fièvre ?"
+        },
+        {
+          "text": "J'ai le COVID-19. Que dois-je faire ?"
+        },
+        {
+          "text": "Qui contacter si j'ai le corona ?"
+        },
+        {
+          "text": "Que dois-je faire si je suis un professionnel et détécté positif ?"
+        },
+        {
+          "text": "J'ai des difficultés respiratoires. Puis-je appeler le SAMU ?"
+        },
+        {
+          "text": "Puis-je aller à l'hopital si j'ai tous les symptômes du @covid ?"
+        },
+        {
+          "text": "Que dois-je faire si je suis détécté positif ?"
+        },
+        {
+          "text": "Que faire si les symptômes s'agravent avec des difficultés respiratoires ?"
+        },
+        {
+          "text": "Dans quel cas puis-je appeler le SAMU ?"
+        },
+        {
+          "text": "J'ai tous les symptômes dois-je aller chez le médecin ?"
+        },
+        {
+          "text": "Aide au diagnostic"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.10.Confinement_attestation_procedureGlobale",
+      "examples": [
+        {
+          "text": "L'attestation employeur a-t-elle une validité? "
+        },
+        {
+          "text": "je dois aller garder l'enfant de ma cousine, quel papier peut le confirmer ?"
+        },
+        {
+          "text": "Est-il possible d'utiliser son mobile pour les attestations? "
+        },
+        {
+          "text": "Quel document dois-je présenter pour me déplacer ?"
+        },
+        {
+          "text": "Comment télécharger l'attestation ?"
+        },
+        {
+          "text": "Quelle attestation utiliser pour sortir? "
+        },
+        {
+          "text": "Quel document dois-je présenter pour aller au travail ?"
+        },
+        {
+          "text": "Ou puis je trouver l'attestation ?"
+        },
+        {
+          "text": "Quels documents sont nécessaires pour se déplacer ?"
+        },
+        {
+          "text": "Pour les enseignants qui accueillent les enfants de soignants, leur faut-il un justificatif en plus de l'attestation ?"
+        },
+        {
+          "text": "Faut-il une attestation pour sortir? "
+        },
+        {
+          "text": "je dois montrer aux policiers si je me fais arrêter ?"
+        },
+        {
+          "text": "Je veux sortir de chez moi, que dois-je faire ?"
+        },
+        {
+          "text": "Certaines catégories de personnes sont-elles exemptées de cette attestation ?"
+        },
+        {
+          "text": "Je suis un professionel de santé, dois-je avoir une attestation?"
+        },
+        {
+          "text": "Où puis-je trouver l'attestation Employeur ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.3.travel_backToFrance_Contact",
+      "examples": [
+        {
+          "text": "Je suis à l'étranger, qui puis-je contacter ?"
+        },
+        {
+          "text": "Où trouver les coordonnées des du consulat ?"
+        },
+        {
+          "text": "Je n'arrive pas à contacter l'ambassade !"
+        },
+        {
+          "text": "j'essaie d'appeler l'amabssade mais personne ne répond"
+        },
+        {
+          "text": "Qui contacter lorsque je suis dans une zone de risque ?"
+        },
+        {
+          "text": "je suis à l'étranger et l'ambassade ne répond pas que faire?"
+        },
+        {
+          "text": "Je suis à l'étranger et je n'arrive pas à contacter le consulat que faire ?"
+        },
+        {
+          "text": "les consulats sont ouverts ?"
+        },
+        {
+          "text": "les lignes de l'ambassade sont saturées ! que faire ?"
+        },
+        {
+          "text": "Je suis bloqué à l'étranger, qui contacter ?"
+        },
+        {
+          "text": "Je suis à l'étranger, qui contacter?"
+        },
+        {
+          "text": "il y a un contact avec le ministère des affaires etrangères pour les français à l'étranger ?"
+        },
+        {
+          "text": "Aide moi à trouver les numéros du consulat et de l'ambassade de France aux Etats-Unis"
+        },
+        {
+          "text": "Je ne trouve pas le nuémro de L'ambassade de France en Chine"
+        },
+        {
+          "text": "Quels sont les points de contact pour les Français à l'étranger ?"
+        },
+        {
+          "text": "Où trouver les coordonnées des ambassades françaises ?"
+        },
+        {
+          "text": "Je suis à l'étranger, qui puis-je contacter?"
+        },
+        {
+          "text": "Je n'arrive pas à contacter le consulat !"
+        },
+        {
+          "text": "A qui je peux téléphoner si je suis à l'étranger pour me faire rapatrier ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.10.globalCovid_spread",
+      "examples": [
+        {
+          "text": "Combien de personnes sont mortes dans le monde?"
+        },
+        {
+          "text": "Peut-on comparer les chiffres du @covid de deux pays ?"
+        },
+        {
+          "text": "Existe-t-il des pays non touchés par le @covid ?"
+        },
+        {
+          "text": "Comment est la progression du @covid dans le monde ?"
+        },
+        {
+          "text": "Quel est le niveau de contamination ?"
+        },
+        {
+          "text": "Le @covid est-il présent partout ?"
+        },
+        {
+          "text": "Où l'infection @covid a-elle été prouvée?"
+        },
+        {
+          "text": "Est-ce que les autres pays s'en sortent mieux avec le @covid ? "
+        },
+        {
+          "text": "Quel est le niveau de contamination en Italie ?"
+        },
+        {
+          "text": "quelles sont les statistiques concernant la maladie ?"
+        },
+        {
+          "text": "Les chiffres du @covid sont-ils comptés de la même facon ?"
+        },
+        {
+          "text": "Quels sont les chiffres du @covid dans le monde ? "
+        },
+        {
+          "text": "Combien de personnes font le @covid?"
+        },
+        {
+          "text": "Quel est le niveau de contamination en Europe ?"
+        },
+        {
+          "text": "Où puis-je trouver des informations sur @covid dans le monde?"
+        },
+        {
+          "text": "Comment connaître la progression du @covid dans le Monde ?"
+        },
+        {
+          "text": "Où est @covid?"
+        },
+        {
+          "text": "Comment sont réalisés les statistiques du @covid en France ?"
+        },
+        {
+          "text": "Est-ce que les cas désignés sont les cas testés? "
+        },
+        {
+          "text": "Combien de personnes sont tombées malades dans le monde?"
+        },
+        {
+          "text": "Où trouver les dernieres statistiques sur le @covid ?"
+        },
+        {
+          "text": "C'est comment la progression du @covid en Italie ? "
+        },
+        {
+          "text": "Comment suivre la progression mondiale du @covid ?"
+        },
+        {
+          "text": "Comment sont décomptés les cas de @covid? "
+        },
+        {
+          "text": "Quelle est la progression du coronavirus dans le Monde ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.8.Confinement_stopWorking",
+      "examples": [
+        {
+          "text": "Les deux parents peuvent-ils être en arrêts en même temps ?"
+        },
+        {
+          "text": "Comment demander l'arret pour garde d'enfant ?"
+        },
+        {
+          "text": "Dois-je contacter, la Caisse Primaire d'Assurance Maladie pour faire valoir mes droits à la garde d'enfants ?"
+        },
+        {
+          "text": "J'ai mes enfants à garder je ne peux pas travailler"
+        },
+        {
+          "text": "Mon fils de 18 ans est handicapé, puis-je bénéficier d'un arrêt ?"
+        },
+        {
+          "text": "Combien de temps est valable l'arrêt ?"
+        },
+        {
+          "text": "Mon mari ne peut pas garder les enfants, puis je poser un arret ?"
+        },
+        {
+          "text": "Quelle est la procédure à suivre par l'employeur pour l'arret garde d'enfant?"
+        },
+        {
+          "text": "Je dois garder mes enfants, puis je me mettre en arrêt ?"
+        },
+        {
+          "text": "L’école de mes enfants est fermée, comment faire ?"
+        },
+        {
+          "text": "Je suis une mère isolée, puis m'arreter pour garder mes enfants ?"
+        },
+        {
+          "text": "Puis je alterner l'arret pour garder des enfants avec ma femme ?"
+        },
+        {
+          "text": "Quelles sont les droits de parents d'enfants handicapés ?"
+        },
+        {
+          "text": "Puis-je poser un arrêt pour garder mes enfants ?"
+        },
+        {
+          "text": "J'ai un enfant de moins de 16 ans. Puis-je bénéficier de l'arrêt de travail ?"
+        },
+        {
+          "text": "Est-il possible de poser un arrêt pour garde d'enfants de moins de 16ans ?"
+        },
+        {
+          "text": "J'ai un enfant de 10 ans. Que dois-je faire ?"
+        },
+        {
+          "text": "Comment un parent peut béneficier de l'arrêt ?"
+        },
+        {
+          "text": "Comment mettre en place mon travail dans le cadre d'un isolement ?"
+        },
+        {
+          "text": "Comment garder ces enfants ?"
+        },
+        {
+          "text": "Je dois garder mes enfants, comment faire ?"
+        },
+        {
+          "text": "Comment obtenir un arrêt de travail pour garder mes enfants pendant le confinement ?"
+        },
+        {
+          "text": "Quelle est la procédure à suivre pour bénéficier de cet arrêt de travail?"
+        },
+        {
+          "text": "Mon employeur va t'il faire les demarche pour que je puisse garder mon fils."
+        },
+        {
+          "text": "Quelles sont les conditions pour un parent pour être en arrêt ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "05.1.Confinement_whatIsIt",
+      "examples": [
+        {
+          "text": "Pourquoi faut-il faire un confinement ?"
+        },
+        {
+          "text": "Qu'est-ce que le confinement? "
+        },
+        {
+          "text": "Un malade doit-il rester en confinement ?"
+        },
+        {
+          "text": "Qu'est-ce que le confinement ? "
+        },
+        {
+          "text": "Que signifie exactement le confinement ?"
+        },
+        {
+          "text": "Que puis-je faire durant le confinement ?"
+        },
+        {
+          "text": "Confinement et isolement sont les mêmes choses ?"
+        },
+        {
+          "text": "Qu'est-ce que je dois faire  pendant un confinement?"
+        },
+        {
+          "text": "Quelle est la description du confinement ?"
+        },
+        {
+          "text": "Quelles sont les différences entre confinement et quarantaine ?"
+        },
+        {
+          "text": "Que signifie isolement ?"
+        },
+        {
+          "text": "Qu'est-ce que je fais en isolement?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.1.aboutVirus_WhatIsIt",
+      "examples": [
+        {
+          "text": "Où le @covid a-il détecté ?"
+        },
+        {
+          "text": "Qu'est-ce que le @covid"
+        },
+        {
+          "text": "Quand on parle du @covid, de quoi parle-t-on ?"
+        },
+        {
+          "text": "Quelle est la différence entre la @covid et le coronavirus."
+        },
+        {
+          "text": "Quelle est la différence entre @covid et la grippe"
+        },
+        {
+          "text": "L'origine du @covid a-t-elle été bien identifiée?"
+        },
+        {
+          "text": "Combien de pays sont touchés par le @covid ?"
+        },
+        {
+          "text": "C'est quoi le @covid ?"
+        },
+        {
+          "text": "Est-ce que le @covid est identique au MERS ?"
+        },
+        {
+          "text": "Que sais-tu sur le @covid ?"
+        },
+        {
+          "text": "D'où vient le @covid  ?"
+        },
+        {
+          "text": "Est-ce que le @covid est identique au SARS ?"
+        },
+        {
+          "text": "Ca vient d'où le @covid  ?"
+        },
+        {
+          "text": "Le MERS c'est comme le @covid ?"
+        },
+        {
+          "text": "Qu'est -ce que @covid"
+        },
+        {
+          "text": "Qu'est ce que le coronavirus ou COVID-19 ?"
+        },
+        {
+          "text": "Est-ce que le @covid est identique à la grippe ?"
+        },
+        {
+          "text": "@covid c'est quoi exactement ?"
+        },
+        {
+          "text": "Depuis quand la Pandémie a commencée ?"
+        },
+        {
+          "text": "De quoi s'agit le @covid ?"
+        },
+        {
+          "text": "Quelle est l'origine du @covid ?"
+        },
+        {
+          "text": "Parle-moi du @covid "
+        },
+        {
+          "text": "Quand a t'on déclaré une Pandemie ?"
+        },
+        {
+          "text": "J'ai entendu parler de covid-19, qu'est-ce que c'est ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.3.Prevention_howToWashHands",
+      "examples": [
+        {
+          "text": "Dois-je nettoyer sous les ongles ? "
+        },
+        {
+          "text": "Puis-je me laver les mains avec une solution Hydro-alcoolique ?"
+        },
+        {
+          "text": "Combien de fois par jour faut-il se laver les mains ?"
+        },
+        {
+          "text": "Lavez-vous les mains efficacement"
+        },
+        {
+          "text": "Comment te laver les mains correctement?"
+        },
+        {
+          "text": "Comment se laver les mains efficacement ?"
+        },
+        {
+          "text": "Comment se laver correctement les mains contre le @covid ?"
+        },
+        {
+          "text": "Quelle est la meilleure façon de se laver les mains ?"
+        },
+        {
+          "text": "Comment se laver les mains avec du savon ?"
+        },
+        {
+          "text": "Nettoyage efficace et lavage des mains"
+        },
+        {
+          "text": "Combien de temps faut-il se laver les mains ?"
+        },
+        {
+          "text": "C'est rapide le lavage des mains  ?"
+        },
+        {
+          "text": "Le savon de Marseille est-il efficace pour se laver les mains ? "
+        },
+        {
+          "text": "Comment savoir si je me lave les mains correctement?"
+        },
+        {
+          "text": "Quels sont les conseils pour bien se laver les mains ?"
+        },
+        {
+          "text": "Quelle est la meilleure méthode pour se laver les mains ?"
+        },
+        {
+          "text": "Quelle est la méthode la plus efficace pour se nettoyer les mains ?"
+        },
+        {
+          "text": "À quelle fréquence dois-je me laver les mains ?"
+        },
+        {
+          "text": "Quand faut-il se laver les mains ?"
+        },
+        {
+          "text": "Le lavage de main est-il efficace contre le @covid ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "01.11.globalCovid_pandemic",
+      "examples": [
+        {
+          "text": "Que signifient les dimensions de la pandémie?"
+        },
+        {
+          "text": "Pourquoi parle-t-on d'une pandémie ?"
+        },
+        {
+          "text": "quelle différence entre épidémie et pandémie ?"
+        },
+        {
+          "text": "Pourquoi on utilise le mot pandémie pour décrire le @covid ?"
+        },
+        {
+          "text": "c'est quoi une épidémie ?"
+        },
+        {
+          "text": "Quelle est la différence entre une pandémie et une épidémie?"
+        },
+        {
+          "text": "Le @covid est-il une pandémie?"
+        },
+        {
+          "text": "Qu'en est-il de la pandémie?"
+        },
+        {
+          "text": "comment définit-on une pandémie ?"
+        },
+        {
+          "text": "Le @covid est-il une épidémie?"
+        },
+        {
+          "text": "A partir de quels critères parle t'on de pandémie ?"
+        },
+        {
+          "text": "c'est quoi une pandémie ?"
+        },
+        {
+          "text": "Qu'est-ce qu'une pandémie?"
+        },
+        {
+          "text": "L'OMS a déclaré le statut de pandémie dans le monde. Qu'est-ce que cela signifie concrètement?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "06.9.travel_foreigners",
+      "examples": [
+        {
+          "text": "Mon titre de séjour a expiré, que dois-je faire ?"
+        },
+        {
+          "text": "Est-ce que les personnes PACSées peuvent se voir délivrer un visa ?"
+        },
+        {
+          "text": "Ma fille est avec moi, mais je suis seul titulaire d'un titre de séjour."
+        },
+        {
+          "text": "Le retour en France est-il permis pour les étrangers s’ils résident en France /s’ils ne résident pas en France ?"
+        },
+        {
+          "text": "Je suis norvegien, puis-je continuer de resider en France ?"
+        },
+        {
+          "text": "Mon fils n'a pas de titre de séjour."
+        },
+        {
+          "text": "J'ai un visa court séjour, comment le proroger ?"
+        },
+        {
+          "text": "Je suis étranger, on m'a volé mon VISA, puis-je venir en France ?"
+        },
+        {
+          "text": "Je suis monégasque puis-je aller sur Nice ?"
+        },
+        {
+          "text": "Je suis ressortissant étranger, que faire ?"
+        },
+        {
+          "text": "Est-ce que les ressortissants étrangers munis de titres de séjour peuvent rentrer en France ?"
+        },
+        {
+          "text": "De retour en France, le débarquement dans un aéroport français est permis pour les Français mais est-il permis pour leurs conjoints étrangers ?"
+        },
+        {
+          "text": "Je suis islandais, y'a t'il un accord spécifique ?"
+        },
+        {
+          "text": "Dois-je avoir un titre de séjour pour chaque membre de ma famille ?"
+        },
+        {
+          "text": "Je suis ressortissant étranger,  et ai perdu mon visa comment rentrer en France ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "02.5.Prevention_Gants",
+      "examples": [
+        {
+          "text": "Est-il obligatoire de porter des gants si on sort à l'extérieur ?"
+        },
+        {
+          "text": "Le port des gants par les porteurs sains est-il efficace ?"
+        },
+        {
+          "text": "Dois-je porter des gants si je vais faire mes courses ?"
+        },
+        {
+          "text": "Des gants peuvent-ils me protéger du COVID-19 ?"
+        },
+        {
+          "text": "Porter des gants à l'extérieur est-il recommandé ?"
+        },
+        {
+          "text": "Pourquoi le port des gants n'est pas la bonne réponse ? "
+        },
+        {
+          "text": "Puis-je réutiliser des gants ayant déjà été porté ?"
+        },
+        {
+          "text": "Faut-il que je porte des gants ?"
+        },
+        {
+          "text": "Puis-je utiliser n'importe type de gants ?"
+        },
+        {
+          "text": "Si je ne suis pas malade dois-je porter des gants ?"
+        },
+        {
+          "text": "Porter des gants me protège-t-il du @covid ?"
+        },
+        {
+          "text": "Les gants vont-ils me protéger ?"
+        },
+        {
+          "text": "Des gants en caoutchouc suffisent ils à me protéger ? "
+        },
+        {
+          "text": "Dois-je porter des gants ?"
+        },
+        {
+          "text": "Les gants sont-ils réutilisables ?"
+        },
+        {
+          "text": "Je suis confiné avec un porteur du @covid, dois-je porter des gants ?"
+        },
+        {
+          "text": "Les gants sont-ils suffisant pour me protéger ?"
+        },
+        {
+          "text": "Est-il recommandé de porter des gants lorsqu'on se rend au supermarché ?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "covid",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Coronavirus",
+          "synonyms": [
+            "COVID19",
+            "COVID-19",
+            "Corona",
+            "SRAS-19",
+            "Corona Virus"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Vouliez-vous dire:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Ma question n'est pas dans la liste"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Vouliez-vous dire:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "COVID19 France Public Skill",
+  "language": "fr",
+  "description": ""
+}
