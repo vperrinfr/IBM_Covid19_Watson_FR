@@ -4,4 +4,6 @@ Ce github est dédié au partage de contenu d'entrainement d'un Bot sur le thèm
 
 Il a été travaillé par une équipe d'IBMers volontaire et utilisé en production dans pour répondre à des questions d'IBMers.
 
+![equipe](/img/Photo%20Equipe.png)
+
 
