@@ -2,9 +2,7 @@
 
 Ce github est dédié au partage de contenu d'entrainement d'un Bot sur le thème Covid19 pour Watson Assistant en français.
 
-Nous avons décidé de fournir l’ensemble des données d’entrainement de ce bot en open-source pour faciliter son utilisation et permettre une évolution communautaire. Ces données couvrent environ 60  intentions tel que « Qu'est ce que le coronavirus ou COVID-19 ? », « Où trouver les statistiques officielles sur le Covid19 ? » ou « A quel moment le confinement prendra fin ? ».
-
-Ces données d'entrainement regroupent un ensemble de 49 intentions et 1084 variations ainsi ques les entités.
+Nous avons décidé de fournir l’ensemble des données d’entrainement de ce bot en open-source pour faciliter son utilisation et permettre une évolution communautaire. Ces données d'entrainement regroupent un ensemble de **49 intentions et 1084 variations** ainsi ques les entités, pour répondre à des questions telles que « Qu'est ce que le coronavirus ou COVID-19 ? », « Où trouver les statistiques officielles sur le Covid19 ? » ou « A quel moment le confinement prendra fin ? ».
 Ceci peut être utilisé pour enrichir vos Bots actuels ou vous mettre la mise en œuvre très rapidement un nouveau Bot Covid-19.
 
 Il a été travaillé par une équipe d'IBMers volontaire et utilisé en production dans pour répondre à des questions d'IBMers.
@@ -15,27 +13,29 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 
 ## Contenu détaillé du skill
 
+**Intentions**
+
 | Nom  | Phrase d'exemple | Nombre de variations |
 | ------------- | ------------- | ------------- |
-| #01.1.aboutVirus_WhatIsIt | Content Cell  | 24 |
-| #01.10.globalCovid_spread  | Content Cell  | 25 |
-| #01.11.globalCovid_pandemic | Content Cell  | 14 |
-| #01.2.aboutVirus_Transmission  | Content Cell  | 25 |
-| #01.3.aboutVirus_HighRiskGroups | Content Cell  | 24 |
-| #01.4.aboutVirus_Incubation_Period  | Content Cell  | 25 |
-| #01.5.aboutVirus_mutation | Content Cell  | 25 |
-| #01.6aboutVirus_futur  | Content Cell  | 25 |
-| #01.7.aboutVirus_FranceReady | Content Cell  | 18 |
-| #01.8.aboutVirus_numbers  | Content Cell  | 29 |
-| #02.1.Prevention_info | Content Cell  | 26 |
-| #02.2.Prevention_desinfection  | Content Cell  | 22 |
-| #02.3.Prevention_howToWashHands | Content Cell  | 20 |
-| #02.4.Prevention_Mask  | Content Cell  | 21 |
-| #02.5.Prevention_Gants | Content Cell  | 18 |
-| #02.6.Prevention_ContactInfection  | Content Cell  | 37 |
-| #02.7.Prevention_Violence | Content Cell  | 9 |
-| #03.1.Treatment_vaccine  | Content Cell  | 20 |
-| #03.2.info_traitements | Content Cell  | 20 |
+| #01.1.aboutVirus_WhatIsIt | D'où vient le coronavirus ?  | 24 |
+| #01.10.globalCovid_spread  | Quelle est la progression du coronavirus dans le Monde ?  | 25 |
+| #01.11.globalCovid_pandemic | c'est quoi une pandémie ?  | 14 |
+| #01.2.aboutVirus_Transmission  | Comment puis-je être infecté ?  | 25 |
+| #01.3.aboutVirus_HighRiskGroups | Quelles sont les personnes les plus menacées ?  | 24 |
+| #01.4.aboutVirus_Incubation_Period  | Quelle est la période d'incubation ?  | 25 |
+| #01.5.aboutVirus_mutation | Le virus peut-il muter ?  | 25 |
+| #01.6aboutVirus_futur  | Sait-on combien de temps ça va durer le Covid19 ?  | 25 |
+| #01.7.aboutVirus_FranceReady | Le gouvernement est-il prêt pour Covid19 ?  | 18 |
+| #01.8.aboutVirus_numbers  | Combien de personnes malades en France?  | 29 |
+| #02.1.Prevention_info | Quelle est la prévention la plus efficace ?  | 26 |
+| #02.2.Prevention_desinfection  | L'alcool tue-t-il le coronavirus ?  | 22 |
+| #02.3.Prevention_howToWashHands | Comment se laver les mains avec du savon ?  | 20 |
+| #02.4.Prevention_Mask  | Un masque FFP3 peut-il me protéger ?  | 21 |
+| #02.5.Prevention_Gants | Faut-il que je porte des gants ?  | 18 |
+| #02.6.Prevention_ContactInfection  | Je connais une personne qui a le Covid19 que faire? | 37 |
+| #02.7.Prevention_Violence | Mon mari est violent avec moi et les enfants  | 9 |
+| #03.1.Treatment_vaccine  | Quand aura on un vaccin?  | 20 |
+| #03.2.info_traitements | Quel traitement antiviral contre le Coronavirus ? | 20 |
 | #03.3.Traitements_what_to_do_symptomes  | Content Cell  | 43 |
 | #03.4.Treatment_depistage | Content Cell  | 40 |
 | #03.5.Treatment_shortnessOfBreath  | Content Cell  | 19 |
@@ -67,7 +67,11 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | #10.3.Other_Volunteering | Content Cell  | 20 |
 | #10.4.Business_Open_Closed | Content Cell  | 17 |
 
+**Entités**
 
+| Nom  | Variation |
+| ------------- | ------------- | 
+| @covid | Corona Virus, SRAS-19, Corona, COVID-19, COVID19 | 
 
 
 
