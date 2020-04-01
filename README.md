@@ -52,20 +52,20 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | #05.5.Confinement_food | Aurais-je à manger la semaine prochaine ? | 28 |
 | #05.6.Confinement_school | Les écoles sont-elles fermées ? | 27 |
 | #05.7.Confinement_Senior | Est-ce que les personnes âgées peuvent sortir?  | 28 |
-| #05.8.Confinement_stopWorking | Content Cell  | 25 |
-| #05.9.Confinement_violation | Content Cell  | 23 |
-| #06.1.travel_ability | Content Cell  | 21 |
-| #06.2.travel_backToFrance_WhenAndHow | Content Cell  | 21 |
-| #06.3.travel_backToFrance_Contact | Content Cell  | 19 |
-| #06.4.travel_backToFrance_flightBackInfo | Content Cell  | 18 |
-| #06.6.travel_backToFrance_landingnearfrontier | Content Cell  | 19 |
-| #06.7.travel_backToFrance_passportIssue | Content Cell  | 19 |
-| #06.8.travel_frenchLivingAbroad | Content Cell  | 19 |
-| #06.9.travel_foreigners | Content Cell  | 15 |
-| #10.1.Economy_Impact | Content Cell  | 5 |
-| #10.2.Other_Contact_Disabilities | Content Cell  | 10 |
-| #10.3.Other_Volunteering | Content Cell  | 20 |
-| #10.4.Business_Open_Closed | Content Cell  | 17 |
+| #05.8.Confinement_stopWorking | Les deux parents peuvent-ils être en arrêts en même temps ?  | 25 |
+| #05.9.Confinement_violation | Quelles sont les sanctions si on sort ?  | 23 |
+| #06.1.travel_ability | Quelles sont les consignes si je pars en voyage ?  | 21 |
+| #06.2.travel_backToFrance_WhenAndHow | Y a-t-il des personnes prioritaires  pour le rapatriement ?  | 21 |
+| #06.3.travel_backToFrance_Contact | La france organise t elle le rapatriement de ses ressortissants ?  | 19 |
+| #06.4.travel_backToFrance_flightBackInfo | Ma compagnie aerienne a-t-elle obligation de me fournir un vol retour ?  | 18 |
+| #06.6.travel_backToFrance_landingnearfrontier | Est-ce que ça ira si je prends un vol qui atterit en Suisse ?  | 19 |
+| #06.7.travel_backToFrance_passportIssue | Comment puis-je obtenir une autorisation de rentrer en France ?  | 19 |
+| #06.8.travel_frenchLivingAbroad | Aujourd'hui je suis en bonne santé mais je veux rentrer en France.  | 19 |
+| #06.9.travel_foreigners | Je suis ressortissant étranger, que faire ?  | 15 |
+| #10.1.Economy_Impact | Quelles sont les conséquences économiques pour la France ?  | 5 |
+| #10.2.Other_Contact_Disabilities | Je suis sourd, comment puis-je m'informer ?  | 10 |
+| #10.3.Other_Volunteering | Comment puis-je m'impliquer d'avantage ?  | 20 |
+| #10.4.Business_Open_Closed | Quels magasins sont fermés ?  | 17 |
 
 **Entités**
 
@@ -74,4 +74,6 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | @covid | Corona Virus, SRAS-19, Corona, COVID-19, COVID19 | 
 
 
+Ce contenu est vivant et peut évoluer au fur et à mesure de l'évolution de la situation. Vous pouvez également faire évoluer ce contenu pour votre propre usage, n'hésitez à proposer vos contributions sur ce Github pour en faire profiter la communauté.
 
+Merci d'avance
