@@ -36,22 +36,22 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | #02.7.Prevention_Violence | Mon mari est violent avec moi et les enfants  | 9 |
 | #03.1.Treatment_vaccine  | Quand aura on un vaccin?  | 20 |
 | #03.2.info_traitements | Quel traitement antiviral contre le Coronavirus ? | 20 |
-| #03.3.Traitements_what_to_do_symptomes  | Content Cell  | 43 |
-| #03.4.Treatment_depistage | Content Cell  | 40 |
-| #03.5.Treatment_shortnessOfBreath  | Content Cell  | 19 |
-| #03.6.Treatment_aggravatingFactors | Content Cell  | 19 |
-| #03.7.Treatment_doctor  | Content Cell  | 16 |
-| #03.8.Treatment_Penurie | Content Cell  | 14 |
-| #03.9.Treatment_chloroquine  | Content Cell  | 23 |
-| #05.1.Confinement_whatIsIt | Content Cell  | 12 |
-| #05.10.Confinement_attestation_procedureGlobale | Content Cell  | 16 |
-| #05.11.Confinement_attestation_details | Content Cell  | 28 |
-| #05.2.Confinement_Rules_goingOut | Content Cell  | 54 |
-| #05.3.Confinement_time | Content Cell  | 15 |
-| #05.4.Confinement_Work | Content Cell  | 23 |
-| #05.5.Confinement_food | Content Cell  | 28 |
-| #05.6.Confinement_school | Content Cell  | 27 |
-| #05.7.Confinement_Senior | Content Cell  | 28 |
+| #03.3.Traitements_what_to_do_symptomes  | Comment puis-je savoir que je suis malade?  | 43 |
+| #03.4.Treatment_depistage | Dois-je avoir une prescription médicale pour me faire tester ?   | 40 |
+| #03.5.Treatment_shortnessOfBreath  | Si je suis en détresse respiratoire, que faire ?  | 19 |
+| #03.6.Treatment_aggravatingFactors | Qu'est ce qui peut aggraver l'infection ?  | 19 |
+| #03.7.Treatment_doctor  | Dans quel cas puis-je appeler le SAMU ?  | 16 |
+| #03.8.Treatment_Penurie | Il y a-t-il un problème d'accès au paracétamol ?  | 14 |
+| #03.9.Treatment_chloroquine  | La chroloquine est elle efficace contre le Covid19 ?  | 23 |
+| #05.1.Confinement_whatIsIt | Que signifie exactement le confinement ? | 12 |
+| #05.10.Confinement_attestation_procedureGlobale | L'attestation employeur a-t-elle une validité?  | 16 |
+| #05.11.Confinement_attestation_details | Les attestations sont-elles renouvelables? | 28 |
+| #05.2.Confinement_Rules_goingOut | Est-ce possible de sortir ? | 54 |
+| #05.3.Confinement_time | A quel moment le confinement prendra fin ? | 15 |
+| #05.4.Confinement_Work | Puis-je télétravailler pendant le confinement ? | 23 |
+| #05.5.Confinement_food | Aurais-je à manger la semaine prochaine ? | 28 |
+| #05.6.Confinement_school | Les écoles sont-elles fermées ? | 27 |
+| #05.7.Confinement_Senior | Est-ce que les personnes âgées peuvent sortir?  | 28 |
 | #05.8.Confinement_stopWorking | Content Cell  | 25 |
 | #05.9.Confinement_violation | Content Cell  | 23 |
 | #06.1.travel_ability | Content Cell  | 21 |
