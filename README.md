@@ -73,7 +73,10 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | ------------- | ------------- | 
 | @covid | Corona Virus, SRAS-19, Corona, COVID-19, COVID19 | 
 
+## Evolution
 
-Ce contenu est vivant et peut évoluer au fur et à mesure de l'évolution de la situation. Vous pouvez également faire évoluer ce contenu pour votre propre usage, n'hésitez à proposer vos contributions sur ce Github pour en faire profiter la communauté.
+Ce jeu de données est vivant et peut évoluer au fur et à mesure de l'évolution de la situation Covid19. Vous pouvez également faire évoluer ce contenu pour votre propre usage, n'hésitez à proposer vos contributions sur ce Github pour en faire profiter la communauté.
+
+N'hésitez pas également à me faire un retour sur l'utilisation de ce jeu de données.
 
 Merci d'avance
