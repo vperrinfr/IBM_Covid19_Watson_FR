@@ -2,6 +2,11 @@
 
 Ce github est dédié au partage de contenu d'entrainement d'un Bot sur le thème Covid19 pour Watson Assistant en français.
 
+## Contenu
+1. Jeu de données d'entrainement
+2. WebHook(s) pour Watson Assistant
+
+## Jeu de données d'entrainement
 Nous avons décidé de fournir l’ensemble des données d’entrainement de ce bot en open-source pour faciliter son utilisation et permettre une évolution communautaire. Ces données d'entrainement regroupent un ensemble de **49 intentions et 1084 variations** ainsi ques les entités, pour répondre à des questions telles que « Qu'est ce que le coronavirus ou COVID-19 ? », « Où trouver les statistiques officielles sur le Covid19 ? » ou « A quel moment le confinement prendra fin ? ».
 Ceci peut être utilisé pour enrichir vos Bots actuels ou vous mettre la mise en œuvre très rapidement un nouveau Bot Covid-19.
 
@@ -11,7 +16,7 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 
 ``Veuillez noter que ce modèle est uniquement destiné à la compréhension des intentions - le contenu des réponses elles-mêmes doit être géré ultérieurement. Nous ne voulions pas inclure ce type de réponses, la situation étant encore évolutive, et les conseils de santé pouvant varier. Les entreprises peuvent également apporter leurs propres réponses sur mesure aux intentions.``
 
-## Contenu détaillé du skill
+### Contenu détaillé du skill
 
 - Lien vers le fichier CSV des intentions: [lien](https://github.com/vperrinfr/IBM_Covid19_Watson_FR/blob/master/fichiers/liste_intents.csv)
 
@@ -77,13 +82,13 @@ Il a été travaillé par une équipe d'IBMers volontaire et utilisé en product
 | ------------- | ------------- | 
 | @covid | Corona Virus, SRAS-19, Corona, COVID-19, COVID19 | 
 
-## Evolution
+### Evolution
 
 Ce jeu de données est vivant et peut évoluer au fur et à mesure de l'évolution de la situation Covid19. Vous pouvez également faire évoluer ce contenu pour votre propre usage, n'hésitez à proposer vos contributions sur ce Github pour en faire profiter la communauté.
 
 N'hésitez pas également à me faire un retour sur l'utilisation de ce jeu de données.
 
-## Contacts
+### Contacts
 
 Vous avez besoin d'aide pour l'implémenter et pour vous accompagner dans son adaptation à votre environnement, n'hésistez pas à contacter nos équipes Services.
 
@@ -93,4 +98,8 @@ Vous avez besoin d'aide pour l'implémenter et pour vous accompagner dans son ad
 
 Ce jeu d’intentions peut être utilisé dans le cadre de l’offre gratuite de 90 jours de la solution Watson Assistant présenté sur ce [site](https://www.ibm.com/watson/covid-response).
 
-Merci d'avance
+## WebHook(s) pour Watson Assistant
+
+Exemple de [Webhook](/webhook) pour interroger des données dynamiques directement depuis le dialogue Watson Assistant.
+
+Bonne utilisation & merci d'avance
