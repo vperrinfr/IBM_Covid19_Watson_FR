@@ -3,10 +3,12 @@
 Ce github est dédié au partage de contenu d'entrainement d'un Bot sur le thème Covid19 pour Watson Assistant en français.
 
 ## Contenu
-1. Jeu de données d'entrainement
-2. WebHook(s) pour Watson Assistant
+1. Jeu de données d'entrainement en Français
+2. Jeu de données d'entrainement en Allemagne
+3. WebHook(s) pour Watson Assistant
+4. Démonstration Watson for CallBot
 
-## Jeu de données d'entrainement
+## Jeu de données d'entrainement en Français
 Nous avons décidé de fournir l’ensemble des données d’entrainement de ce bot en open-source pour faciliter son utilisation et permettre une évolution communautaire. Ces données d'entrainement regroupent un ensemble de **49 intentions et 1084 variations** ainsi ques les entités, pour répondre à des questions telles que « Qu'est ce que le coronavirus ou COVID-19 ? », « Où trouver les statistiques officielles sur le Covid19 ? » ou « A quel moment le confinement prendra fin ? ».
 Ceci peut être utilisé pour enrichir vos Bots actuels ou vous mettre la mise en œuvre très rapidement un nouveau Bot Covid-19.
 
@@ -98,8 +100,20 @@ Vous avez besoin d'aide pour l'implémenter et pour vous accompagner dans son ad
 
 Ce jeu d’intentions peut être utilisé dans le cadre de l’offre gratuite de 90 jours de la solution Watson Assistant présenté sur ce [site](https://www.ibm.com/watson/covid-response).
 
+## Jeu de données d'entrainement en Allemagne
+
+En complément du travail réalisé en France, [Uschi Bosch](https://www.linkedin.com/in/uschi-bosch-5658035/)a travaillé à la traduction en allemand du jeu de données.
+
+Celle-ci est accessible [ici](/fichiers/List_intents_German_translation.csv).
+
 ## WebHook(s) pour Watson Assistant
 
 Exemple de [Webhook](/webhook) pour interroger des données dynamiques directement depuis le dialogue Watson Assistant.
+
+## Covid19 intégré en mode CallBot
+
+La plateforme Watson Assistant ainsi entrainée peut être très facilement mis à disposition au travers de la voix via le téléphone via le service [Watson Voice Agent](https://cloud.ibm.com/catalog/services/voice-agent-with-watson). 
+
+Vous pouvez voir une démonstration sur [Youtube](https://youtu.be/crxRGN8XBtM)
 
 Bonne utilisation & merci d'avance
